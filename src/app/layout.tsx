@@ -3,6 +3,8 @@ import { Cinzel, EB_Garamond, IM_Fell_English, Tangerine } from "next/font/googl
 import { getSettings } from "@/lib/data";
 import "./globals.css";
 
+export const dynamic = "force-dynamic";
+
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,

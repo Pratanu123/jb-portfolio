@@ -1,0 +1,16 @@
+node_modules
+.next
+.git
+.gitignore
+.cursor
+.vscode
+.DS_Store
+.env
+.env.*
+!.env.example
+prisma/dev.db
+prisma/dev.db-journal
+public/tinymce
+data
+coverage
+AGENTS.md

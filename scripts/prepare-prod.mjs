@@ -20,6 +20,7 @@ function run(command, args) {
 
 run("node", ["scripts/sync-prisma-provider.mjs"]);
 run("npx", ["prisma", "generate"]);
+run("node", ["scripts/copy-tinymce.mjs"]);
 
 if (onVercel && isPostgres) {
   run("npx", ["prisma", "db", "push", "--skip-generate"]);

@@ -1,9 +1,9 @@
 generator client {
-  provider = "prisma-client-js"
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "debian-openssl-3.0.x"]
 }
 
-// Local: sqlite. Production (Neon): change provider to "postgresql"
-// and set DATABASE_URL to the Neon connection string.
+// Local: sqlite. Docker / Vercel: postgresql when DATABASE_URL starts with postgresql://
 datasource db {
   provider = "sqlite"
   url      = env("DATABASE_URL")
@@ -56,6 +56,6 @@ model Settings {
   polaroidPaint  String @default("/hero/paint-v3.jpg")
   polaroidRead   String @default("/hero/read-v3.jpg")
   heroImage      String @default("/hero/portrait-v6.gif")
-  copy           Json   @default(dbgenerated("'{}'"))
-  socials        Json   @default(dbgenerated("'[]'"))
+  copy           Json   @default("{}")
+  socials        Json   @default("[]")
 }

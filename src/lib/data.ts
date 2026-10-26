@@ -1,3 +1,4 @@
+import { unstable_noStore as noStore } from "next/cache";
 import { defaultCopy, mergeCopy } from "@/lib/copy";
 import { prisma } from "@/lib/prisma";
 import { parseSocials } from "@/lib/types";
@@ -48,6 +49,7 @@ const defaultSettings = {
 };
 
 export async function getSettings() {
+  noStore();
   const row =
     (await prisma.settings.findUnique({ where: { id: "default" } })) ??
     (await prisma.settings.create({
