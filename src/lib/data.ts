@@ -32,7 +32,7 @@ const defaultSettings = {
   id: "default",
   displayName: "JB",
   tagline: "Words, wrought with care.",
-  bio: "A content writer of brand stories, letters, and long arguments.",
+  bio: "Joyeeta Biswas Portfolio",
   about:
     "I write for houses, ateliers, and people who still believe a sentence can change the temperature of a room.",
   aboutWords: defaultAboutWords.join("\n"),

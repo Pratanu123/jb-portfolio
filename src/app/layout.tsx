@@ -46,7 +46,7 @@ export async function generateMetadata(): Promise<Metadata> {
       default: `${settings.displayName} — ${settings.tagline}`,
       template: `%s · ${settings.displayName}`,
     },
-    description: settings.bio,
+    description: "Joyeeta Biswas Portfolio",
   };
 }
 
