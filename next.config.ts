@@ -20,6 +20,16 @@ const nextConfig: NextConfig = {
       { pathname: "/categories/**" },
     ],
   },
+  // Standalone only serves public files from the build. Runtime admin
+  // uploads live on disk under public/uploads but are not in that map.
+  async rewrites() {
+    return [
+      {
+        source: "/uploads/:filename",
+        destination: "/api/media/:filename",
+      },
+    ];
+  },
 };
 
 export default nextConfig;
