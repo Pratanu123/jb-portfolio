@@ -1,0 +1,555 @@
+{
+  "categories": [
+    {
+      "name": "Feature writing",
+      "slug": "feature-writing",
+      "description": "",
+      "imageUrl": "",
+      "mark": "quill",
+      "markImageUrl": "",
+      "accent": "violet-red",
+      "sortOrder": 0
+    },
+    {
+      "name": "Script writing",
+      "slug": "script-writing",
+      "description": "",
+      "imageUrl": "",
+      "mark": "script",
+      "markImageUrl": "",
+      "accent": "teal-gold",
+      "sortOrder": 1
+    },
+    {
+      "name": "Article",
+      "slug": "article",
+      "description": "",
+      "imageUrl": "",
+      "mark": "newspaper",
+      "markImageUrl": "",
+      "accent": "violet-red",
+      "sortOrder": 2
+    },
+    {
+      "name": "Multi-channel marketing communications",
+      "slug": "multi-channel-marketing-communications",
+      "description": "",
+      "imageUrl": "",
+      "mark": "channels",
+      "markImageUrl": "",
+      "accent": "teal-gold",
+      "sortOrder": 3
+    },
+    {
+      "name": "Social media posts",
+      "slug": "social-media-posts",
+      "description": "",
+      "imageUrl": "",
+      "mark": "bubbles",
+      "markImageUrl": "",
+      "accent": "violet-red",
+      "sortOrder": 4
+    },
+    {
+      "name": "LinkedIn posts",
+      "slug": "linkedin-posts",
+      "description": "",
+      "imageUrl": "",
+      "mark": "profile",
+      "markImageUrl": "",
+      "accent": "teal-gold",
+      "sortOrder": 5
+    },
+    {
+      "name": "Editing & proofreading",
+      "slug": "editing-proofreading",
+      "description": "",
+      "imageUrl": "",
+      "mark": "proof",
+      "markImageUrl": "",
+      "accent": "violet-red",
+      "sortOrder": 6
+    },
+    {
+      "name": "News headlines",
+      "slug": "news-headlines",
+      "description": "",
+      "imageUrl": "",
+      "mark": "newspaper",
+      "markImageUrl": "",
+      "accent": "teal-gold",
+      "sortOrder": 7
+    },
+    {
+      "name": "Website copy",
+      "slug": "website-copy",
+      "description": "",
+      "imageUrl": "",
+      "mark": "browser",
+      "markImageUrl": "",
+      "accent": "teal-gold",
+      "sortOrder": 8
+    },
+    {
+      "name": "Newsletter",
+      "slug": "newsletter",
+      "description": "",
+      "imageUrl": "",
+      "mark": "envelope",
+      "markImageUrl": "",
+      "accent": "violet-red",
+      "sortOrder": 9
+    }
+  ],
+  "works": [
+    {
+      "title": "Copywriting and the Madness of Multiverse",
+      "slug": "copywriting-and-the-madness-of-multiverse",
+      "excerpt": "Warning: read at your own risk!\r\nAdvice: watch the movie once more before you read this!",
+      "body": {
+        "type": "html",
+        "html": "<p>The name sounds a little too familiar, doesn’t it? You must be wondering, “Where have I heard of this before?” Well, you are right – I have borrowed it from the famous “Doctor Strange: The Madness of Multiverse” movie. Just as the realities change with a simple shift in actions in the fictional story, so do our marketing results in real-time – so much in common. But how could a story be so relevant to the reality we are living in? This is exactly what we will discover throughout this article, and by the end, you, my dear readers, can let me know if this article had the potential to drive some change in your reality, possibly some positive ones (cross my fingers).</p><h2>• What’s All the Fuss About?</h2><h3>Let’s understand it hypothetically, shall we?</h3><p>In Universe A, this blog creates a sensation—it becomes a buzz-worthy post that people go gaga over!</p><p>In Universe B, my post fails to garner the attention it was supposed to and soon vanishes into nothingness.</p><h3>But how does this happen?</h3><p>With every word I write in the blog, I invoke different emotions, which, from a broader perspective, translate into positive or negative reactions, much like how Doctor Strange creates infinite realities when he tries to save America Chavez in the movie. So, each of my decisions to choose particular words has to be precise and in sync with the preferences of the target audience. Otherwise, I risk ending up like the Sinister Strange from Earth 838 or Zombie Strange.</p><h2>• Into the World of Examples: From the Copywriting Perspective</h2><h3>1. Picture the PPC ad!</h3><p>You launch a PPC ad, wherein you promote your revamped SaaS product. There are two scenarios: one leads you to a pit and the other lands you the pot of gold. In both cases, however, you have the same target audience, the same visuals, and the same landing page where it is dropped. So, the million-dollar question is: why does one fail in one universe and the other soars high in the second one?</p><h3>What really happened here?</h3><p>You tweaked the headline a little – that’s what invoked a bunch of positive/ negative emotions and changed the results for you.</p><h3>Is This Even Real?</h3><p>Universe A Headline: Our platform now has 5 more features!</p><p>Outcome: The target audience fails to connect with the product; hence, low emotional engagement, CTR, and lead generation.</p><p>Universe B Headline: Introducing our game changer: the key to unlocking your team’s full potential.</p><p>Outcome: The target audience buys into the emotion of higher productivity and more success, which increases the CTR and contributes to the lead conversion process..</p><h3>2. The Engaging Email Campaign or not?</h3><p>You launch an email campaign to demonstrate an upgrade in your project management software to the COO. While the outcome in Universe A is negative, your actions lead to just the right amount of engagement and conversion in Universe B.</p><h3>What changed?</h3><p>The subject line!</p><h3>Is This Even Real?</h3><p>Universe A Subject Line: Check out the brand-new project management features on our platform!</p><p>Outcome: Low email open rate and conversions stick to a minimum, thanks to the weightless chatter about the product.</p><p>Universe B Subject Line: Take up more projects and deliver the existing ones -- all at 10x your current speed!</p><p>Outcome: All-time high open rate and increased conversions. You owe it to the clear and precise words (10x) used.</p><h2>• Not Just A Your Average Piece of Advice</h2><h3>Dreamwalk Into Your Customer’s Reality</h3><h4>The Movie Reference</h4><p>In the movie, Dreamwalking (an action) lets Doctor Strange control himself in another universe.</p><h4>The Marketing Parallel</h4><p>Remember, it’s not just about the features of your product, but what your customer gains from it-- so dreamwalk into their goals and desires. They buy, so you build! Therefore, it makes sense to prioritise learning how your features can affect their success -- weave that into words when reaching out to them.</p><h3>Your Data is Your Darkhold: It can trap you into darkness if not used judiciously</h3><h4>The Movie Reference</h4><p>The Darkhold (a magical book) gives great power to the bearer but becomes dangerous if misused.</p><h4>The Marketing Parallel</h4><p>Picture this: You had a product with great potential, but it failed because of the words you used while marketing it. You have data (in the form of metrics) for the same; study it and see how you can succeed. Neglecting the data, thinking it’s bogus, can only lead to failure.</p><h3>Avoid The Incursion At All Costs</h3><h4>The Movie Reference</h4><p>In the movie, when two universes collide (an Incursion), both realities are destroyed.</p><h4>The Marketing Parallel</h4><p>Do not stuff your content with too many ideas; instead, be wise enough to put out one message at a time, whether writing a subject line for an email, a headline for a PPC, or any other form of content.</p><h2>• It Ends Here</h2><p>Since you are here, I think I have done a fair enough job to have you hooked into my piece -- for the better, I hope. And because we will be parting our ways briefly, let me wrap it up by asking you to pause and reflect on what you have learned here today and implement it to unlock your best reality. To actually land in a universe where you experience success with your copywriting, you need to swear by these words.</p><p>In any case, I have a few more posts lined up for the same series; they shall be titled Design and the Madness of Multiverse, Audience Targeting and the Madness of Multiverse. Hope you stay tuned for these.</p>"
+      },
+      "coverImageUrl": "/uploads/6624e127-92d0-48f8-af70-59c446f2ee9e.png",
+      "featured": true,
+      "featuredOrder": 2,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.520Z",
+      "categorySlug": "feature-writing"
+    },
+    {
+      "title": "She is Somebody",
+      "slug": "she-is-somebody",
+      "excerpt": "Disclaimer: This does not apply to all but to most women and could be triggering for those practising patriarchal norms.",
+      "body": {
+        "type": "html",
+        "html": "<h3>Disclaimer: This does not apply to all but to most women and could be triggering for those practising patriarchal norms.</h3><h2>So, here we go!</h2><p>She is a mother, a daughter, a sister, a wife! That’s mostly how she goes by – the relationship shared with her family makes up her identity. And while most of the female populace may not have a problem with this –  primarily because of the notion of affection attached to it – others (and a very few of them) -- would see through the issue from the lens of patriarchal shackles.</p><p>These familial equations are more than just ordinary terms that confine women to a said role and often subject them to stereotypes, thereby hindering their progress on many occasions.</p><p>Take the example of a mother. In most cases, especially in the subcontinent, we are located in, she is viewed solely as a caregiver.</p><p>While there is nothing wrong with the role,  compartmentalizing or reducing her to someone with no other pursuits in life could be detrimental. What's worse? If she tries to get out of the predefined box – say by getting a job – she would be burdened with the expectation to excel at both.</p><p>This takes a toll on her mental and physical health, often leading her to lose focus. The unfortunate outcome is she lets go of her career for her motherly duties. The same applies to daughters, who are supposed to juggle multiple roles.</p><p>She is expected to excel in her studies, envisioned as a breadwinner, and hoped to become a perfect wife (when she comes of age) -- one does not sacrifice her personal relationships for the sake of professional ones.</p><p>\"And this is how it works\" -- while most of us would console ourselves with these words, we all know how pressing these matters can be! As hinted earlier with a dramatic flair, not all women have to experience this. Some from the sisterhood are blessed with the right support and understanding.</p><p>But for those, who are still stuck in the rut, I want to ask you this million-dollar question: Are we still fine with no individual identity in the twenty-first century? Truth be told, we would be promoting double standards (sort of), if we said \"no\" here, especially when we are head over heels with women's empowerment.</p><p>Remember, we are thinkers, doers, dreamers, and creators. And it would be such a shame if the world fails to know our aspirations, experiences, passions, and talents. Oh, what a joy it must be to feel like we matter.</p><p>To wrap things up, we must discover who we are in this lifetime and create an identity not for the sake of fame, money, or other materialistic pursuits but for the sake of our own selves -- at best for inspiring fellow women.</p>"
+      },
+      "coverImageUrl": "/uploads/135ff718-8677-4df7-a5d2-b1e95b35dda5.jpg",
+      "featured": true,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.525Z",
+      "categorySlug": "feature-writing"
+    },
+    {
+      "title": "The Great Switch: CMO and CSO Enter the Role Reversal Play",
+      "slug": "the-great-switch-cmo-and-cso-enter-the-role-reversal-play",
+      "excerpt": "And on a fine spring day, they decided to take on each other’s work… and did they live happily ever after?",
+      "body": {
+        "type": "html",
+        "html": "<p>And on a fine spring day, they decided to take on each other’s work… and did they live happily ever after?</p><p>This is not the end of the story you read in fairy tales — but the beginning of an exciting plot, where the CMO tries to keep up with the sales target, and the CSO bears the weight of the marketing crown for a full moon cycle.</p><h2>What happens next is both surprising and exciting!</h2><p>While this might sound like a perfect corporate prank, it definitely is not. Perhaps each of them will gain perspective into the other’s work and the relevance it holds in the bigger picture.</p><p>Will the CMO realise that brand awareness — if it does not produce quality leads and closed deals — cannot keep fueling the business? Maybe!</p><p>Will the CSO come to understand that pressure cannot achieve what patience can? Will they realise that building trust with customers takes time? Perhaps, yes!</p><p>What I can tell you is that they will certainly start appreciating and recognising each other's work — to the point where they might even open their eyes to the interdependence they share.</p><p>The never-ending tiff might end once and for all — the sales team will never fail to applaud the groundwork done by the marketing team to create a firm hold on the customers, and the marketing team will never cease to be amazed by the amount of pressure sales can withstand and the graciousness they show in desperate times.</p><h2>A possibility: the finger-pointing will come to a halt, and it may not be long before both parties find each other to be two sides of the same lucky coin that keeps the business winning with each passing day.</h2><h2>Food for thought: Aren’t we racing toward the same goal of growth and development? So why not join hands to avoid overstepping each other’s boundaries?</h2>"
+      },
+      "coverImageUrl": "/uploads/703d7755-8c1a-4b1f-baba-a414701d685c.png",
+      "featured": true,
+      "featuredOrder": 1,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.526Z",
+      "categorySlug": "feature-writing"
+    },
+    {
+      "title": "Are We Actually Nurturing Our Skin, or Just Buying Nicely Packaged Bottles of Nothing?",
+      "slug": "are-we-actually-nurturing-our-skin-or-just-buying-nicely-packaged-bottles-of-not",
+      "excerpt": "Somewhere between the ten-step routines, the glass bottles, and the promise of poreless perfection, skincare stopped being just about skin. It became a shopping habit dressed up as self-care.",
+      "body": {
+        "type": "html",
+        "html": "<p>Somewhere between the ten-step routines, the glass bottles, and the promise of poreless perfection, skincare stopped being just about skin. It became a shopping habit dressed up as self-care.</p><p>There is something oddly comforting about opening a new skincare product.</p><p>The packaging is immaculate. The bottle feels expensive. The label promises hydration, radiance, a stronger skin barrier, perhaps even the sort of glow that suggests you have your entire life figured out. You unscrew the cap, inhale that faintly luxurious scent, and apply the product with the quiet satisfaction of someone who is finally doing something right.</p><p>For a moment, everything feels promising.</p><p>Then another product catches your eye. This one contains an ingredient you have recently heard about. Another promises to target the very concern you didn't know you had until a stranger on the internet pointed it out. Before long, your bathroom shelf resembles a miniature laboratory, and your evening routine has acquired more steps than your morning commute.</p><p>But here's a question worth asking: Are we actually taking better care of our skin, or have we simply become better consumers of skincare?</p><p>The two aren't necessarily the same thing.</p><h2>When skincare became a personality trait</h2><p>Once upon a time, a skincare routine could be remarkably unremarkable. You washed your face, applied moisturiser, and went about your day. Perhaps you used sunscreen. Perhaps you didn't, depending on what you knew, what you could afford, and whether you remembered to carry it.</p><p>Today, skincare has its own vocabulary, rituals, aesthetics, and online celebrities. There are ingredients to layer, ingredients never to combine, acids to introduce gradually, serums to alternate, and skin-barrier emergencies to worry about. A perfectly ordinary face can suddenly feel like a complicated project requiring constant supervision.</p><p>Social media has undoubtedly made skincare information more accessible. People can learn about sun protection, common skin concerns, and ingredients that might help them. Dermatologists can correct misinformation, and people with similar concerns can share experiences they once struggled to discuss.</p><p>Yet the same platforms also create a peculiar problem: the more skincare we consume as content, the more reasons we find to consume it as a product.</p><p>A creator introduces a new serum. A beauty enthusiast shares a shelf full of products. A carefully edited video presents a routine that appears both effortless and essential, conveniently leaving out the lighting, filters, individual skin differences, and the possibility that some of those products aren't necessary for everyone.</p><p>Suddenly, the moisturiser you were perfectly happy with last week seems inadequate.</p><p>The trouble isn't that we enjoy skincare. Enjoyment is reason enough to do plenty of things. The trouble begins when enjoyment turns into obligation, when a simple routine becomes an endless list of things our skin supposedly needs.</p><p>And when every new product arrives with a promise, doing nothing starts to feel irresponsible.</p><h2>The ingredient parade</h2><p>Retinol. Niacinamide. Hyaluronic acid. Vitamin C. Salicylic acid. Peptides.</p><p>The ingredient list goes on, and the marketing language goes with it.</p><p>Each ingredient has its own story. Some have useful evidence supporting particular skincare benefits. Others have more limited evidence for specific claims, and results can vary depending on the formulation, concentration, how the product is used, and the individual using it.</p><p>But ingredient awareness and ingredient obsession are two very different things.</p><p>Knowing what an ingredient does can help you make an informed choice. Collecting products simply because their labels contain impressive-sounding ingredients is another matter entirely.</p><p>A serum containing a popular active ingredient isn't automatically better than a straightforward moisturiser. A product with a long ingredient list isn't inherently more effective than one with a short list. And a high price tag doesn't guarantee that a product will suit your skin.</p><p>The formulation matters. So does your skin's condition. So does the purpose of the product.</p><p>Imagine buying three different products to address dryness, irritation, and a feeling of tightness. Before introducing them, it might be worth considering whether your existing routine is irritating your skin or whether you need a simpler approach focused on moisturising and protecting the skin barrier.</p><p>Adding more products without understanding the problem can make it harder to work out what's helping and what's causing trouble.</p><p>Sometimes, the most useful thing you can do for your skincare routine is not to add another bottle. It is to understand why you need the ones you already own.</p><h2>Your skin didn't sign up for a performance review</h2><p>One of the stranger consequences of modern beauty culture is the way it has turned ordinary skin into a collection of perceived shortcomings.</p><p>Visible pores need to disappear. Texture needs to be smoothed out. Pigmentation needs to be corrected. Fine lines need to be prevented before they have the audacity to exist. Skin must look fresh, luminous, even-toned, and perpetually well-rested.</p><p>And if it doesn't?</p><p>There is a product for that.</p><p>To be fair, wanting to address a skin concern is perfectly reasonable. Acne can be painful. Eczema can be uncomfortable. Hyperpigmentation can bother someone. Dryness and irritation deserve attention. Skincare can be practical, enjoyable, and genuinely helpful.</p><p>But there is a difference between caring for a concern and being persuaded that every natural feature is a problem waiting to be solved.</p><p>Pores are normal. Skin texture is normal. Fine lines are normal. Skin can look different from one day to the next without requiring an emergency intervention.</p><p>The beauty industry doesn't need everyone to feel dissatisfied all the time, but dissatisfaction can certainly make products easier to sell. When ordinary features are presented as flaws, the possibility of fixing them becomes an attractive proposition.</p><p>And the goalpost keeps moving.</p><p>You buy something for your acne, then discover that your skin isn't sufficiently glowy. You address uneven tone, then become concerned about texture. You finally settle into a routine, only to encounter a new trend suggesting that your current approach is hopelessly outdated.</p><p>At some point, the question stops being whether your skin is healthy or comfortable. It becomes whether it looks enough like the version of skin you have been taught to desire.</p><p>That is a rather exhausting standard for a face to live up to.</p><h2>More products, more care? Not necessarily.</h2><p>There is a persistent assumption that a longer routine reflects greater commitment to self-care.</p><p>It sounds logical. More steps must mean more attention, right?</p><p>Not quite.</p><p>A useful skincare routine is one that suits your skin, addresses your concerns, and is practical enough for you to maintain. For many people, that might mean a gentle cleanser, a moisturiser, and broad-spectrum sunscreen during the day. Others may benefit from targeted treatments, prescription products, or advice from a dermatologist.</p><p>There is no universal number of steps that makes a routine good.</p><p>In fact, introducing several new products at once can make it difficult to identify the cause of irritation or a breakout. Some active ingredients can irritate skin when used incorrectly or too frequently. Certain combinations and concentrations may be unsuitable for particular people.</p><p>This is not an argument against active ingredients or elaborate routines. It is an argument against confusing complexity with effectiveness.</p><p>If a product is helping you, you understand why you're using it, and your skin tolerates it well, it may deserve its place on your shelf. If you're layering products because an online routine told you to, without knowing what each one is supposed to do, a pause might be useful.</p><p>You don't have to earn healthy skin by completing a twelve-step ritual every night.</p><p>And you certainly don't have to purchase every product that appears in your feed.</p><h2>The price of feeling good about ourselves</h2><p>Let's talk about the money that gets spent.</p><p>Skincare can be an accessible everyday habit, but it can also become an expensive one. The costs aren't limited to the initial purchase. There are replacements, complementary products, new releases, and the occasional impulse buy that arrives before the previous bottle is half-empty.</p><p>Individually, each purchase might seem reasonable. Collectively, they can add up.</p><p>The financial question isn't simply whether a product is expensive. It is whether the product serves a purpose that matters to you, whether it fits your budget, and whether you are buying it because you want it or because you have been made to feel that you need it.</p><p>A reasonably priced moisturiser that works for your skin may offer more value than an expensive product that sits unused because you don't like its texture. A sunscreen you apply consistently is more useful than a luxurious one you save for special occasions.</p><p>And an unfinished bottle isn't proof that you failed at skincare. It might simply mean you bought something that wasn't right for you.</p><p>There is also something worth examining about the emotional side of these purchases.</p><p>Sometimes, we shop because we enjoy trying new things. Sometimes, we shop because we are curious. And sometimes, buying a product feels like taking control of a concern that has been bothering us.</p><p>None of these motives automatically makes a purchase bad.</p><p>But when every insecurity comes with a checkout button, it helps to recognise the difference between a considered purchase and an emotional reflex.</p><p>Self-care should not routinely leave you feeling financially guilty.</p><h2>So, what does good skincare actually look like?</h2><p>Perhaps it starts with a less exciting question than the beauty industry would prefer us to ask.</p><p>Instead of asking, What should I buy next?, try asking, What does my skin actually need?</p><p>That shift can change the way you approach your routine.</p><p>Start with the basics. Cleansing, moisturising, and sun protection form a useful foundation for many people. You can build on that foundation according to your skin type, concerns, and professional advice.</p><p>Understand the purpose of a product. Before buying something, learn what it is intended to do, what evidence supports its use, and whether it makes sense for your particular concern.</p><p>Introduce new products thoughtfully. Adding one product at a time makes it easier to assess tolerance and notice potential reactions. Follow product instructions, and seek professional advice if you have persistent or concerning symptoms.</p><p>Give your routine time. Many skincare products don't produce immediate results. Constantly switching products in pursuit of a quick transformation can make it difficult to evaluate what works.</p><p>Know when to consult a dermatologist. Persistent acne, unexplained rashes, severe irritation, or other ongoing skin problems may require more than an over-the-counter product. Online recommendations cannot replace an individual assessment.</p><p>And perhaps most importantly, allow your routine to be boring.</p><p>Boring can mean consistency. Boring can mean affordable. Boring can mean that you no longer spend twenty minutes worrying about whether you have applied your products in the correct order.</p><p>Boring, in this context, can be a rather beautiful thing.</p><h2>Maybe the glow isn't in the bottle</h2><p>There is nothing inherently wrong with enjoying skincare. A beautifully packaged serum can be a delightful purchase. A carefully planned routine can be relaxing. Discovering a product that genuinely helps your skin can make a real difference to your comfort and confidence.</p><p>We don't have to turn every pleasure into a critique of consumerism.</p><p>But we can enjoy these things without assuming that every new product is an improvement, that every skin concern needs a solution, or that a more expensive routine makes us better at looking after ourselves.</p><p>The skincare industry will continue to introduce new ingredients, new formulations, and new reasons to take another look at our bathroom shelves. Some innovations will be useful. Others may be less essential than their marketing suggests.</p><p>Our job is not to reject every new bottle. It is to become more discerning about the promises printed on it.</p><p>Because caring for your skin should involve understanding it, protecting it, and responding to what it needs. It should not require you to wage a permanent campaign against the face you already have.</p><p>So the next time a product promises to transform your life, take a moment before reaching for your wallet.</p><p>Ask yourself what the product does, whether you need it, and whether the promise makes sense.</p><p>And if the answer is no?</p><p>Put the bottle down. Your skin will probably survive the disappointment.</p><p>Your bank account might even thank you.</p>"
+      },
+      "coverImageUrl": "/covers/cover-1.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.528Z",
+      "categorySlug": "feature-writing"
+    },
+    {
+      "title": "Financial literacy",
+      "slug": "financial-literacy",
+      "excerpt": "Write an ad script to help parents understand the importance of financial literacy for their children. Make sure to keep the following points in mind:",
+      "body": {
+        "type": "html",
+        "html": "<h2>Write an ad script to help parents understand the importance of financial literacy for their children. Make sure to keep the following points in mind:</h2><p>• The ad script should be 30 seconds long.</p><p>• There will be only 1 speaker in the script.</p><h2>Title: Equip them adequately to handle life in your absence!</h2><h4>Duration: 30 Seconds</h4><h4>Speaker: 1 (Mother – speaks directly to camera)</h4><h4>Tone: Reflective, Emotional, Thought-Provoking</h4><h2>Opening Scene – Dream Sequence</h2><p>[Visual: A dream sequence – Dim lights open the scene in a quiet room with a sombre tone. A 15-year-old boy sits shattered on the chair. Lying on the table are debt notices, credit card bills, and tax forms. His gaze fixated on those pieces of paper as if he had just seen a ghost. His facial expressions are grim and those of overwhelm.]</p><p>[Visual: Besides him, the ghost of her mother stands – her facial expressions reveal grief and guilt. She reaches out to comfort her son – tries to place her hand on his back, but it passes through him.]</p><p>[Visual: The camera zooms into her pale face – her lips trembling because of her emotional distress, and her eyes are heavy with tears that are yet to fall down.]</p><p>MOTHER (speaks with choked emotion and breaking voice, looking into the camera directly):</p><p>“I thought he was prepared for life… He knows how to ride a bike, cook food, and even do his laundry.</p><p>[Visual: The camera slowly shifts its focus from the face to the documents on the table – close-up shots show the Overdue stamps, loan documents, and credit card balances.]</p><p>“But why… why did I never think of making him financially literate?”</p><p>[Visual: Camera again shifts focus from the table to the pale mother’s face – silent tears continue to roll down her cheeks.]</p><p>“ I wish I had some more time…”</p><p>[Visual: trembling lips uttering these words]</p><p>“... to just do the money talk!”</p><h3>Dream-to-Reality Transition</h3><p>[Visual: The camera zooms out of the room slowly, with lights getting dimmer. The image of the mother’s ghost and the shattered son slowly gets blurred in the backdrop. The scene fades into darkness. Then–]</p><p>[Visual: Cut to the mother in bed – she suddenly gasps for breath.]</p><p>[Visual: Her eyes snap open, looking at the ceiling. It was a dream. She is alive.]</p><p>[Visual: She is breathing heavily, with sweat on her forehead, and fresh tears on her cheeks.]</p><p>[Visual: She slowly gets up and sits quietly on the bed, panting.]</p><p>[Visual: The camera zooms into her face – captures her relief and the resolution in her eyes to do what needs to be done – teaching her son the money maths.]</p><h3>Closing Frame – Message on Screen</h3><p>[Visual: Big bold text appears on the screen in the backdrop of the mother on the bed:</p><p>“Financial Literacy – your kid needs it! Pass the wisdom before it’s too late.” ]</p>"
+      },
+      "coverImageUrl": "/uploads/43acbb46-543e-4f84-80bf-18269ece34d1.jpg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.532Z",
+      "categorySlug": "script-writing"
+    },
+    {
+      "title": "Compound Interest",
+      "slug": "compound-interest",
+      "excerpt": "An educational video script!",
+      "body": {
+        "type": "html",
+        "html": "<h1>Title: Compound Interest: When Your Money Has Babies</h1>\n<h4>Format: Animated explainer video<br>Target audience: Young adults who find financial concepts intimidating<br>Estimated duration: 1 min 43 sec<br>Tone: Playful, witty, conversational</h4>\n<h3>Scene 1</h3>\n<h4>Narration</h4>\n<p>Imagine your money had a job. Now imagine it got paid, took that paycheque, and went straight back to work. Without complaining about Mondays.</p>\n<p>That's compound interest. And no, you don't need to be a maths person to get it.</p>\n<h4>Visual</h4>\n<p>An animated ₹10,000 note wearing a tiny office ID card clocks in at a miniature workplace. A little rupee-shaped character hands it a payslip. The note grins and returns to its desk.</p>\n<h4>Text on screen</h4>\n<p>Your money can earn money, too.</p>\n<h3>Scene 2</h3>\n<h4>Narration</h4>\n<p>Say you invest ₹10,000 at an illustrative annual return of 10%.</p>\n<p>After one year, you've earned ₹1,000. Lovely.</p>\n<p>But here's the plot twist: you leave that ₹1,000 right where it is.</p>\n<p>Next year, your money earns returns on ₹11,000, not just the original ₹10,000. So now you have ₹12,100.</p>\n<p>Your earnings have started earning, too. Money has officially entered its productive era.</p>\n<h4>Visual</h4>\n<p>The ₹10,000 note receives a ₹1,000 rupee-shaped baby. The little rupee joins its parent at work. Together, they generate more rupee characters, and the total grows from ₹10,000 to ₹11,000, then ₹12,100.</p>\n<h4>Text on screen</h4>\n<p>Year 1: ₹11,000<br>Year 2: ₹12,100</p>\n<h3>Scene 3</h3>\n<h4>Narration</h4>\n<p>That's compounding: returns earning returns.</p>\n<p>And time? Time is the secret ingredient. The longer your money stays invested, the more chances it gets to grow on its own growth.</p>\n<p>Of course, real investment returns fluctuate. Ten per cent isn't guaranteed, and investments can lose value.</p>\n<h4>Visual</h4>\n<p>A tiny rupee character rolls down a hill, gathering more rupee characters like a snowball. A calendar flips rapidly. The snowball grows, then pauses beside a small disclaimer.</p>\n<h4>Text on screen</h4>\n<p>Compounding needs time. Returns aren't guaranteed.</p>\n<h3>Scene 4</h3>\n<h4>Narration</h4>\n<p>So forget the scary formulas for a second. Remember this: don't just make your money work. Give what it earns a chance to work, too.</p>\n<p>Your future self might send you a thank-you note.</p>\n<h4>Visual</h4>\n<p>The original ₹10,000 note relaxes on a beach lounger while its rupee-shaped team works nearby. A postcard appears: &ldquo;Dear Past Me, good call.&rdquo;</p>\n<h4>Text on screen</h4>\n<p>Start thoughtfully. Stay informed. Give growth time.</p>"
+      },
+      "coverImageUrl": "/covers/cover-3.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.534Z",
+      "categorySlug": "script-writing"
+    },
+    {
+      "title": "Luxury Hospitality Article",
+      "slug": "luxury-hospitality-article",
+      "excerpt": "Here's a piece you should read before you plan for your next vacation!",
+      "body": {
+        "type": "html",
+        "html": "<h2>Write an article not exceeding 300 words, covering a new luxury beach resort coming up in Anjuna, Goa. The article should cover the following:</h2>\n<p>● Introduction about the hotel brand, features, USPs</p>\n<p>● Location of the hotel - proximity to transportation hubs and tourist attractions</p>\n<p>● Facilities - categories of rooms offered, dining outlets, recreation activities</p>\n<p>etc.</p>\n<p>You may use https://www.caravelabeachresortgoa.com/ for reference.</p>\n<h1>\"Gar firdaus, ruhe zamin ast, hamin asto, hamin asto, hamin ast!&rdquo;</h1>\n<h3>Experience the most heavenly creation of North Goa: The House of Uncommons Beach Resort!</h3>\n<p>Golden beaches? Yes! Crystal-clear waters? Of course. Cliffs that are a testament to the undying beauty of Goa? Definitely.</p>\n<p>Wait &hellip;Wait.. Wait.. We, at The House of Uncommons, have a few more surprises lined up for our guests: ethereal sunrise above the sea from our particularly angled luxe balconies at the Sun-shell Rooms, suited perfectly for those sleepyheads who would not want to miss this chance.</p>\n<p>A little simpler in perks but definitely a lot more lush &ndash; Our Coconut Nests &ndash; can melt away your day&rsquo;s exhaustion from shopping, clubbing, and making new friends with the rustic Goan room charm.</p>\n<p>Not to forget the Boho Bliss Cabins for those who would love to experience a bit of the hippie lifestyle &ndash; think hammocks in the room overlooking the laterite cliffs!</p>\n<p>With sixty-six rooms nestled in a modest 15-acre property, we are open to hosting you and your party, whatever the season and vibe! But that is not all.</p>\n<p>Let's talk about our food, culture, and activities. Our kitchen is run by native Goan chefs who bring you the authentic flavours of Khatkhate, Xit Kodi, Sorpotel, and many more mouth-watering cuisines of the land.</p>\n<p>Up next -- our cultural arrangements, organised to steal the spotlight, be it our everyday Konkani music shows or folk dances.</p>\n<p>And if you are someone who would love to partake in activities like shell art, coconut therapy, Azulejo tile painting, and beach yoga, then you are in for a treat.</p>\n<p>Located just a short drive from MOPA (40-50 minutes) and Dabolim (60 minutes), we offer chauffeur services to and from the airports, just for the added comfort of our guests. Mapusa Bus Stand is only a few minutes away on foot if scenic walks intrigue you.</p>\n<p>Put simply, surrounded by iconic cliffs and turquoise-blue waters, The House of Uncommons is nestled in the northern tip of Anjuna, offering the best of what Goa stands for -- picturesque landscapes.</p>\n<p>That said, did you know you can easily reach Vagator Beach or Baga Beach, a host of forts (similar to the one in Bardez), and the timeless beauty of the old Goan churches from our resort?</p>"
+      },
+      "coverImageUrl": "/covers/cover-1.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.538Z",
+      "categorySlug": "article"
+    },
+    {
+      "title": "An HR’s guide to handling the two M’s in the job: Mayhem and Mental Health",
+      "slug": "an-hrs-guide-to-handling-the-two-ms-in-the-job-mayhem-and-mental-health",
+      "excerpt": "The hard work of HR employees are worth praising!",
+      "body": {
+        "type": "html",
+        "html": "<h2>An HR&rsquo;s guide to handling the two M&rsquo;s in the job: Mayhem and mental health</h2>\n<p>Let&rsquo;s begin by applauding the HR employees across the world. We must acknowledge the hard work they do to keep an organization on its feet. Balancing mayhem and mental health simultaneously is, indeed, not for the lighthearted. Imagine making over 50 calls a day to recruit new folks and managing the existing staff, all the while keeping your own emotions in check. Resemble much like the conductor of a symphony orchestra? But how do they do this day in and day out?</p>\n<p>They employ a host of strategies that distinguish them as star employees. On a personal level, they set boundaries &ndash; work hours and personal time are separated to avoid burnout. They know that being the best in the workspace does not necessarily need overworking but using their wit to their advantage and managing time proportionately to avoid their day job colliding with their personal affairs. Taking breaks throughout the workday to keep mental fatigue at bay is a must for most of the top guns in this field. It is equally crucial for them to lead a healthy lifestyle, which entails nutritious food, adequate sleep, regular exercise, and so on. Some of the exceptional HR leaders often indulge in their hobbies or join meditation classes to keep negativity at arm&rsquo;s distance. Add to this mix, the urge to learn continuously. This makes the HR employees navigate through each day with ease. The hope of learning something that can add to their career often keeps them going. After all, who does not want to excel in their career?</p>\n<p>That being said, let us not overlook the efforts organisations make to keep their HR employees emotionally healthy. Think wellness workshops for HRs designed to address their unique challenges. What's more? A host of fun activities &ndash; whether it is a luncheon, a dinner, or a day trip to the zoo &ndash; are planned to give them (and all the other staff members) a breath of fresh air. Have you factored in the flexible work arrangements that allow HRs to manage workloads and make time for their domestic affairs? The work-from-home perks further contribute to their well-being. In addition to all these, some companies also encourage open communication regarding mental health, giving their employees a safe space to address their psychological concerns.</p>\n<p>Not to mention that regular check-ins are also conducted to assess how the HR staff members are feeling. Any issues that may crop up during these evaluation processes are often resolved promptly. Truth be told, a supportive work culture paired with personal efforts makes it easier for the HRs to navigate the winding paths of the work maze. While it is undeniable that they encounter numerous obstacles, with a little bit of courage and perseverance, they make it to the finish line.</p>\n<p>Wondering if you could do the same? Chuck all your doubts and hop on the bandwagon of those who believe in themselves. Soon you will see that you have become a pro in leading a balanced life.</p>"
+      },
+      "coverImageUrl": "/covers/cover-2.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.539Z",
+      "categorySlug": "article"
+    },
+    {
+      "title": "Feminism in India",
+      "slug": "feminism-in-india",
+      "excerpt": "My two cents on one of the most-debated topics of our time!",
+      "body": {
+        "type": "html",
+        "html": "<h2>Feminism in India</h2><p>The topic of feminism in India has been discussed for ages. At every local tea shop and in every elite coffee lounge, people have been found talking about gender equality, particularly women's rights. Much like the individuals in these two settings who are divided by their class and status, the topic has been perceived in different lights. While a section of society, since the 19th century, has initiated protests in favour of women's education and against the patriarchal shackles, another half of the population has drawn attention to their hues and cries of men being in crisis due to the feminization of society.</p><p>Despite the never-ending challenges faced by feminists, the proponents in the current time are trying hard to shed as much light as possible on sexual violence, workplace discrimination, and prejudice in access to education and healthcare. Individuals from different social strata and cultural backgrounds have joined hands and taken to the streets to increase awareness regarding these issues.</p><p>In fact, Indian feminists have made significant progress in recent years, leading the government to implement several policies like the Scheme for Adolescent Girls, the One-Stop Centre scheme, and Stand-up India aimed at promoting gender equality. Thanks to activists, women have made strides in a range of fields, from politics to business and science to arts. However, much work related to social equality remains to be done, which makes it imperative for the feminists in India to continue their commendable work in this area.</p>"
+      },
+      "coverImageUrl": "/covers/cover-3.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.541Z",
+      "categorySlug": "article"
+    },
+    {
+      "title": "Is Cloud Firewall the Future for Enterprises",
+      "slug": "is-cloud-firewall-the-future-for-enterprises",
+      "excerpt": "The cloud firewall case!",
+      "body": {
+        "type": "html",
+        "html": "<h2>Is Cloud Firewall the Future for Enterprises?</h2><p>The world has embraced the idea of cloud computing with open arms. While it is undeniable that the cloud offers flexibility, sustainability, and a competitive edge to businesses, it is necessary to be aware that every advantage has a corresponding disadvantage, namely malicious attacks, phishing attacks, SQL Injection attacks, and Denial of Service attacks. Hence, the need for a cloud firewall – a software-based security product hosted in the cloud that can filter your network traffic and protect you from all that is mentioned above and more.</p><p>But with traditional firewalls available in abundance, what is the need for implementing cloud firewalls? The answer is deep-rooted in the fact that not all firewalls are created equal. Despite sharing the same basic goal, the features, capabilities, and levels of sophistication can vary considerably. A traditional firewall operates on a stateless level. Traditional firewalls have fewer layers of security built into them in order to protect against the more sophisticated threats of the modern age. They cannot go beyond the static inspection and cannot have application-level control.</p><h2>Reasons to choose a cloud firewall</h2><h3>Identity Protection</h3><p>With a business operating on the cloud, it becomes necessary to filter traffic from multiple sources. Malicious websites could potentially infect your cloud infra with malware or other forms of malicious software. A protective barrier such as a cloud firewall can essentially act as an additional layer to your defences, thereby enabling you to safeguard your systems.</p><p>Maintain a regular test and validation schedule for your firewall configuration to ensure that it is operating as intended and providing sufficient protection. As part of this process, you will perform penetration tests and vulnerability assessments to identify any weaknesses in your security system.</p><h3>Application Control</h3><p>Cloud firewalls can seamlessly identify the application that created a particular traffic flow and will actively block applications that may perform any unauthorized activity that could compromise your network or put your data at risk.</p><p>You can also detect and react to security incidents in real time by regularly monitoring your network traffic.</p><h3>Secure access by employees</h3><p>While traditional firewalls allow any traffic to access and view an entire network's resources, cloud firewalls implement a need-to-know access model. The users have access to only the resources they require for their work rather than all the resources and applications. It ensures maximum network security and protection.</p><p>Control access to your cloud resources by establishing a set of policies. You can do this by setting up rules for inbound and outbound traffic, and defining who is authorized to access which resources.</p><h3>Reduced operational costs</h3><p>Thanks to flexible subscriptions, Cloud-based firewalls can easily be procured. Plus, they can be more cost-effective compared to on-premise firewalls because they require no heavy hardware for hosting. Unlike the latter, cloud-based firewalls do not require maintenance.</p><p>For a more comprehensive security solution, ensure your cloud firewall is integrated with intrusion prevention systems, anti-virus software, and web application firewalls.</p><h3>Easily Deployable and Less Maintainance</h3><p>Cloud firewalls are based on software and so can easily be deployed for your business. Provided they have a protected communication path, they can be virtually installed anywhere in an organization. They cause minimal downtime for your business and require a minimal amount of maintenance once deployed.</p><p>Set firewall rules according to your business's needs and the traffic types you expect to encounter. A number of criteria must be set up in order to allow or block traffic, including IP addresses, ports, and other criteria.</p><p>Contrary to this, an on-premise firewall requires a physical location with sufficient space and resources for deployment. Usually, the enterprise is responsible for the upkeep of the firewall and all processes related to it.</p><h3>Scalability</h3><p>It is easy to scale cloud-based firewalls in the event of an increase in demand. These firewalls, owing to their software-based characteristics, can be scaled infinitely; they can automatically adjust as bandwidth increases. In contrast, on-site firewalls are more difficult to maintain and have limited scalability.</p><h3>Real-time updates</h3><p>With the features of cloud-based firewalls, a business would be able to receive automatic updates over the internet in real-time to get constantly updated on the latest cyber-attacks. Traditional firewalls lack in offering an automatic response.</p><h2>Conclusion</h2><p>Today the world is fighting sophisticated cyber-attacks which has driven the need for a solution that can identify them and combat them in the blink of an eye. A cloud firewall can offer fruitful results in this regard. It can provide the ultimate level of protection to any cloud infra, thereby allowing businesses to operate safely without facing any downtime.</p>"
+      },
+      "coverImageUrl": "/covers/cover-1.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.542Z",
+      "categorySlug": "article"
+    },
+    {
+      "title": "3-star business hotel",
+      "slug": "3-star-business-hotel",
+      "excerpt": "A.    Write an article not exceeding 300 words, covering a new 3-star business hotel coming up in Koramangala, Bangalore. The article should cover the following:",
+      "body": {
+        "type": "html",
+        "html": "<p>Write an article not exceeding 300 words, covering a new 3-star business hotel coming up in Koramangala, Bangalore. The article should cover the following:</p>\n<p>● Introduction about the hotel brand, features, USPs</p>\n<p>● Location of the hotel - proximity to tech parks, large companies, transportation hubs</p>\n<p>● Basic facilities - categories of rooms offered, restaurants present, recreation activities etc.</p>\n<h1>ADDING A TOUCH OF LUXURY TO TIRING BUSINESS TRIPS SINCE 1999!</h1>\n<p><br>The XYZ Group, a well-known name in the hospitality industry, has inaugurated a 3-star business hotel, The ABC Grand, in the start-up hub of the city, Koramangala. The hotel is a perfect blend of all things business and leisure. Located in the bustling area of Bangalore, the stay is one of the most sought-after accommodations by entrepreneurs and employees alike.</p>\n<p>The ABC Grand stands out for its proximity to the XYZ of Corporate Affairs and tech parks like XYZ Golflinks, DEF Ferns Galaxy, and GHI Tech Park. Public transportation options are accessible at walking distance from the hotel. The nearest metro stations can be reached in no more than 15 minutes of an enthralling cab ride through the streets of Namma Bengaluru.</p>\n<h2>A few words on their amenities</h2>\n<p>The hotel features three categories of spacious accommodations, namely the Royal suite, the Deluxe suite, and the Classic suite for comfortable stays -- all of these are equipped with business essentials, including Wifi, a designated work area fitted with ergonomic seating options, desks, and table lamps. The ABC Grand also has conference and meeting rooms for entrepreneurs who love networking. A two-floor parking space ensures that all guest vehicles are safely stored during their visit. ATMs, currency exchange offices, and bank branches are all within a 5-minute walk.</p>\n<h2>What&rsquo;s more?</h2>\n<p>Those on the lookout for some serenity and bliss amidst the hustle and bustle of their business trip may find the hot waters of the terrace pool rejuvenating. Guests can also enjoy a variety of other facilities, including an on-site restaurant serving cuisines from around the world, a tennis court for sports enthusiasts, and a gaming arena with VR games, bowling, and pool tables. The rooftop bar has a collection of boutique wines, among other liquor options and is one of the main attractions for visitors.</p>"
+      },
+      "coverImageUrl": "/covers/cover-2.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.543Z",
+      "categorySlug": "article"
+    },
+    {
+      "title": "Indian weddings",
+      "slug": "indian-weddings",
+      "excerpt": "A SEO-friendly article about Indian weddings!",
+      "body": {
+        "type": "html",
+        "html": "<p>What makes Indian weddings so special? Put your thoughts in an SEO-friendly write-up. Write a clickbaity headline. Feel free to be as creative as you can be. Word Count Limit: 450-500 words.</p><h2>Band, Baja, Baraat, and Vidaai: Why Indian weddings are festivals in themselves!</h2><p>You do not need to get married to understand the charm Indian weddings hold! Do you, now? You certainly have participated in one and know how it feels – maybe it was your चाचा or बुआ के बेटे की शादी (marriage of paternal uncle or aunt's son). Whether it is the magnificent opulence of big, fat ceremonies or the striking subtlety of small and intimate ones, every Indian wedding is unique in its portrayal of love, excitement, and gratitude.</p><p>While it would take more than one page to explore the beauty of these occasions, we shall try to do justice to this post in half a thousand words. Indian culture is far from bland! The food, fabric, and rituals are all diverse and vivid, so much so that you feel proud to be a part of the great nation!</p><p>Now, imagine ceremonies that include a mix of all these elements. Let’s start with the mouth-watering taste of Indian delicacies -- from tangy Udupi sambars paired with steamed aromatic rice and flaky Bengali kachuris stuffed with green peas and served with pickles to the mild but powerful taste of rogan josh and Kashmiri naan and the piquant flavour of Gujarati dhoklas and spicy coriander chutneys, we have curated food menus that make you salivate.</p><p>Now picture savouring these in a visually appealing setting – I am talking about the wedding decor that ranges from modest to elaborate with an impressive display of lights (including the chandeliers, string lights, lanterns, and oil dias), floral walls and draped fabrics for backdrops (think Mandap), table linens and chair sashes, custom signages, photobooths, rangolis, and more. Has my article already passed the vibe check for you?</p><p>Well, I have something more aesthetically pleasing – the holy chants from the rituals, the exchange of vows, and the tears of happiness that mark the beginning of a new journey. What a joy to experience familial bonds at their absolute best. The witnesses to these moments – the guests – are often draped in fabrics that are carefully selected to avoid overshadowing the bride and groom on their special day.</p><p>From the deepest blue to the brightest yellow, you can see a colour palette that screams harmony in vividity. Silk, georgette, chiffon, organza, velvet, linen – all fabrics make their way to these events. How can we exclude music from this equation? Shehnai and Dhol (the traditional wind instrument and double-headed drum) are a must for our celebrations, with some ceremonies even making use of sitar, harmonium, and tabla for an unforgettable experience.</p><p>Did I mention Bollywood hits that seem to have become a go-to choice for our festivities? Visit any Indian wedding, and you will experience a wave of happiness in almost every other activity – from food choices to picking the perfect dress and everything in between. My two cents on why these celebrations are so special? We not only celebrate the union of two people but the coming together of all the family and friends who partake in the festivities wholeheartedly.</p>"
+      },
+      "coverImageUrl": "/covers/cover-3.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.545Z",
+      "categorySlug": "article"
+    },
+    {
+      "title": "Case Study 1",
+      "slug": "case-study-1",
+      "excerpt": "Case Study 1",
+      "body": {
+        "type": "html",
+        "html": "<h2>Case Study 1</h2>\n<p>A Mega IPO is about to happen. Prepare a promotion plan in order to maximise the IPO applications. The plan should include copies for multiple channels as shared below:</p>\n<p>&bull; 2 Push Notifications (Title, Description &amp; Creative Content)</p>\n<p>&bull; 2 WhatsApp Notifications (Description &amp; Creative Content)</p>\n<p>&bull; 2 SMS Copies</p>\n<p>&bull; 1 Emailer</p>\n<h2>&bull; 1 Banner<br><br>Push Notification 1:</h2>\n<h2>Title: Unleash Investment Potential! Mega IPO Launching Soon 🚀</h2>\n<p>Description: Exciting times ahead! Gear up for the mega IPO unveiling &ndash; your gateway to unprecedented investment opportunities. Stay tuned for a journey into financial prosperity!</p>\n<p>Creative Content: We can add an animated rocket symbolizing growth and success with the text \"Blast Off into Financial Success with Mega IPO!\"</p>\n<h2>Push Notification 2:</h2>\n<h2>Title: Fortune Favors the Bold! Mega IPO Countdown ⏰</h2>\n<p>Description: Your chance to shape your financial destiny is here! The mega IPO is about to take off. Don't miss this opportunity; secure your seat for exclusive benefits.</p>\n<p>Creative Content: We can add vibrant visuals of a ticking clock counting down to the Mega IPO launch with the tagline \"Time is Ticking, Get Ready for Mega Returns!\"</p>\n<h2>SMS Copy 1:</h2>\n<p>Exciting News! 🌟 Mega IPO Launching Soon. Your ticket to financial growth is just a click away. Stay tuned for exclusive updates!</p>\n<h2>SMS Copy 2:</h2>\n<p>Be a Pioneer! 🚀 Mega IPO Unveiling Shortly. Limited slots available for this game-changing opportunity. More details coming soon!</p>\n<h2>Emailer:</h2>\n<h3>Subject: Unlock Exclusive Opportunities: Mega IPO Launch 🚀</h3>\n<p>Hello,</p>\n<p>Excitement is about to fill the air with this significant revelation: the Mega IPO is poised for launch, promising unparalleled investment potential. This is your exclusive invitation to seize a golden opportunity and amplify your portfolio. Prepare for a transformative journey into the realm of financial success as The Mega IPO presents a unique chance to fortify your investments and redefine your financial future.</p>\n<p>Best regards,</p>\n<p>[XYZ Company]</p>\n<h2>Banner:</h2>\n<p>[Image: Striking visual of Mega IPO launch]</p>\n<p>Text: Wondering How to Add Your Wealth? The Mega IPO Launch is Here -- Your Gateway to Financial Success.</p>\n<h2>WhatsApp Notification 1:</h2>\n<p>Description: Investment Revolution Unleashed! 🚀 Mega IPO Launching Soon. Your chance to redefine wealth is here. Stay tuned for unrivalled updates!\"</p>\n<p>Creative Content: A dynamic image of a financial chart soaring upward, symbolizing growth and success. Text overlay: \"Redefine Wealth with Mega IPO - Coming Soon!\"</p>\n<h2>WhatsApp Notification 2:</h2>\n<p>Description: Shape Your Financial Future! 🌐 Mega IPO Countdown has begun. Dive into exclusive opportunities. Keep an eye on this space for game-changing investments!</p>\n<p>Creative Content: Vibrant imagery of a compass pointing towards financial success. Text overlay: \"Navigate Your Wealth with Mega IPO - Countdown Started!\"</p>\n<h4>NOTE: We can further customize the copies with specific details related to the IPO, such as the company name, launch date, and key selling points. But we have to keep in sync with the relevant regulations and guidelines when promoting financial products.</h4>"
+      },
+      "coverImageUrl": "/covers/cover-1.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.547Z",
+      "categorySlug": "multi-channel-marketing-communications"
+    },
+    {
+      "title": "Case Study 2",
+      "slug": "case-study-2",
+      "excerpt": "A combination of a variety of communication copies",
+      "body": {
+        "type": "html",
+        "html": "<h2>Case Study 2</h2>\n<p>A new client has been onboarded to the XYZ Platform. Write copies for D0 &amp; D1 communication to be sent to the new client so that they click on our campaigns and start trading. The plan should include copies for multiple channels as shared below:</p>\n<p>&bull; 2 Push Notifications (Title, Description &amp; Creative)</p>\n<p>&bull; 2 WhatsApp Notifications (Description &amp; Creative)</p>\n<p>&bull; 2 SMS Copies</p>\n<p>&bull; 1 Emailer</p>\n<p>&bull; 1 Banner</p>\n<h2>XYZ PLATFORM</h2>\n<h2>1. D0 Push Notifications:</h2>\n<h2>a. Title: Welcome to XYZ! 🚀</h2>\n<p>Description: \"Exciting times ahead! Your journey with XYZ begins now. Click to explore exclusive trading opportunities and unleash financial potential.\"</p>\n<p>Creative Content: Animated image of a welcoming handshake and a vibrant \"Get Started\" button.</p>\n<h2>b. Title: Unlock Your Trading Potential! 🌐</h2>\n<p>Description: \"Dive into a world of possibilities with XYZ. Click to discover how our platform empowers your financial goals and trading aspirations.\"</p>\n<p>Creative Content: Dynamic visual of a key unlocking a door labelled \"Financial Freedom.\"</p>\n<h2>2. D0 SMS Copies:</h2>\n<p>a. Hello from XYZ! 🌟 Your have successfully embarked on your trading endeavour. Click to explore exclusive opportunities and trade with confidence. Welcome aboard</p>\n<p>b. Welcome to XYZe! 🚀 Click now to begin on the path to financial growth. Explore our user-friendly platform and trade with ease. Happy Trading!</p>\n<h2>3. D0 Emailer:</h2>\n<h3>Subject: Welcome to XYZ - Start Trading Today! 📈</h3>\n<p>Hello [XYZ Client&rsquo;s Name],</p>\n<p>Enter the realm of financial empowerment with Your path to a more prosperous financial future commences here. Click beneath to reveal exclusive opportunities tailored just for you. Whether you're an experienced trader or newly embarking on your journey, XYZ equips you with the tools to mold your financial destiny. Dive in now, and witness the gates to a world of potential swing open wide. Your</p>\n<p>[Explore Now Button]</p>\n<p>Best regards,</p>\n<p>XYZ</p>\n<h2>4. D0 Banner:</h2>\n<p>[Image: Vibrant visual of trading interface]</p>\n<p>Text: Welcome to XYZ - Your Path to Smart Trading. Click to Check out the Opportunities Awaiting your Arrival!</p>\n<h2>5. D0 WhatsApp Notifications:</h2>\n<p>a. Description: \"Greetings from XYZ! We are Happy to Have You with Us. Click to explore exclusive trading opportunities and chart your course to financial success.\"</p>\n<p>Creative Content: Animated GIF of a compass pointing towards growth with a \"Begin Trading\" button.</p>\n<p>b. Description: \"Welcome to XYZ! 🌐 Click now to discover the power of seamless trading. Your financial journey starts here.\"</p>\n<p>Creative Content: Visual of a door opening to reveal a world of financial opportunities with a \"Start Trading\" prompt.</p>\n<hr>\n<h2>1. D1 Push Notifications:</h2>\n<h2>a. Title: Time to Trade! ⏰</h2>\n<p>Description: Your account is set up! Click now to start trading with XYZ and make the most of exclusive market opportunities.</p>\n<p>Creative Content: Animated image of a sun rising from behind the mountains with a \"Trade Now\" button.</p>\n<h2>b. Title: Maximize Your Potential! 📊</h2>\n<p>Description: Seize the day! Your XYZ account is up and running. How about you click to start trading and unlock a world of financial possibilities now?</p>\n<p>Creative Content: Visual of a key turning in a lock with a \"Trade Today\" prompt.</p>\n<h2>2. D1 SMS Copies:</h2>\n<p>a. Your XYZ account is all set! 🌐 Click now to start trading and make the most of exclusive market opportunities. Happy Trading!\"</p>\n<p>b. Maximize your potential with XYZ! ⏰ Your account is ready for trading. Click to explore and trade with confidence. Happy Investing!\"</p>\n<h2>3. D1 Emailer:</h2>\n<h3>Subject: Your XYZ Account - Ready for Trading! 📊</h3>\n<p>Hello [XYZ Client's Name],</p>\n<p>Great news! Your XYZ account is set up and ready for trading. Click below to explore the market and make the most of exclusive opportunities.</p>\n<p>[Trade ASAP]</p>\n<p>Best regards,</p>\n<p>XYZ Team</p>\n<h2>4. D1 Banner:</h2>\n<p>[Image: Dynamic visual of trading charts]</p>\n<p>Text: \"Your XYZ Account Awaits Your Arrival &ndash; Click Now to Maximize Your Trading Potential!\"</p>\n<h2>5. D1 WhatsApp Notifications:</h2>\n<p>a. Description: Good news! Your XYZ account has completely been set up. ⏰ Make the Most of the financial opportunities now.</p>\n<p>Creative Content: Animated GIF of a cash falling from a tree with a \"Trade Now\" prompt.</p>\n<p>b. Description: Ready to Trade? Your XYZ account is good to go. Click now and explore the power of seamless trading.</p>\n<p>Creative Content: Visual of a pot filling with coins with \"Start Trading\" prompt in the background.</p>"
+      },
+      "coverImageUrl": "/covers/cover-2.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.549Z",
+      "categorySlug": "multi-channel-marketing-communications"
+    },
+    {
+      "title": "Email marketing campaign",
+      "slug": "email-marketing-campaign",
+      "excerpt": "A three-part email marketing campaign",
+      "body": {
+        "type": "html",
+        "html": "<h2>Objective: Develop a three-part email marketing campaign to promote XYZ, a personal finance book designed for women.</h2>\n<h3>Target Audience: Women seeking to improve their financial literacy, understand personal finance fundamentals, and make informed decisions about saving, investing, and financial planning.</h3>\n<h3>Deliverables: Three emails scheduled across D0, D1, and D2.</h3>\n<h2>&bull; D0 | Awareness: Highlight the gap between earning money and understanding how to grow it, introducing the need for financial education.</h2>\n<h2>&bull; D1 | Consideration: Explore the importance of financial preparedness, particularly during career breaks, unexpected expenses, and changes in income.</h2>\n<h2>&bull; D2 | Conversion: Position XYZ as an accessible starting point for building financial confidence and encourage readers to purchase the book.</h2>\n<h3>Tone of Voice: Conversational, empathetic, empowering, and informative.</h3>\n<h3>Key Requirements: Each email must have a compelling, women-centric subject line, engaging preview text, a distinct communication objective, persuasive body copy, and a clear call to action. The sequence should progress naturally from awareness to consideration and conversion without repetitive messaging.</h3>\n<h3>Success Metric: Drive engagement and book purchases through relevant messaging, strong open-worthy subject lines, and clear calls to action.</h3>\n<h2>EMAIL MARKETING CAMPAIGN</h2>\n<h4>Product: XYZ, a personal finance book for women<br>Campaign type: Three-email nurture and conversion sequence<br>Audience: Women looking to build financial confidence and make more informed money decisions.</h4>\n<h2>D0: AWARENESS</h2>\n<h3>Subject line: Women earn money. So why aren't we taught how to grow it?</h3>\n<h4>Email body</h4>\n<p>Hi there,</p>\n<p>You got your first salary. Maybe you celebrated with a shopping spree, treated your family, or finally bought something you'd been eyeing for months.</p>\n<p>And then came the next payday. And the next.</p>\n<p>Somewhere between paying bills, saving what you could, and figuring out what you wanted your future to look like, a question probably crossed your mind:</p>\n<p>Am I doing enough with my money?</p>\n<p>It's a question many women find themselves asking, not because they're incapable of managing money, but because earning it and learning how to grow it are two very different things.</p>\n<p>We're often expected to make sensible financial decisions without ever being taught how to evaluate them. We hear about investments, retirement planning, and wealth creation, but the conversation can feel intimidating before we've even begun.</p>\n<p>And no, you don't need to become a financial expert overnight.</p>\n<p>You need a place to start.</p>\n<p>Meet XYZ, a personal finance book designed to help women understand their money, navigate essential financial concepts, and approach their financial decisions with greater confidence.</p>\n<p>Because your money deserves as much thought as the effort you put into earning it.</p>\n<h4>CTA: DISCOVER XYZ</h4>\n<p>Warmly,<br>The XYZ Team</p>\n<h2>D1: CONSIDERATION</h2>\n<h3>Subject line: Women, what would happen to your finances if your salary stopped tomorrow?</h3>\n<h4>Email body</h4>\n<p>Hi there,</p>\n<p>Imagine your salary doesn't arrive next month.</p>\n<p>Perhaps you've decided to take a career break. Perhaps a family responsibility needs your attention. Or perhaps life has simply handed you a situation you didn't plan for.</p>\n<p>Your expenses, unfortunately, haven't received the memo.</p>\n<p>Rent is still due. Bills still need paying. And your long-term plans haven't disappeared just because your income has paused.</p>\n<p>This isn't a reason to panic. It's a reason to prepare.</p>\n<p>Here are three questions worth asking yourself:</p>\n<p>1. How long could my savings support me?</p>\n<p>Knowing your essential monthly expenses can help you estimate how much breathing room you have if your income changes.</p>\n<p>2. Do I understand my financial safety net?</p>\n<p>Emergency savings, appropriate insurance, and an understanding of your existing financial commitments can all play a role in preparing for uncertainty.</p>\n<p>3. Am I building financial security beyond my current salary?</p>\n<p>Long-term savings and investments deserve attention too, keeping your goals, circumstances, and risk tolerance in mind.</p>\n<p>You don't need perfect answers today. But understanding these questions before a difficult moment arrives can give you more options when it matters.</p>\n<p>That's what learning personal finance is really about: not predicting every twist in life, but preparing to navigate them.</p>\n<p>XYZ helps you build your understanding of the fundamentals, so you're better equipped to make informed choices about your financial future.</p>\n<h4>CTA: EXPLORE XYZ</h4>\n<p>Warmly,<br>The XYZ Team</p>\n<h2>D2: CONVERSION</h2>\n<h3>Subject line: A money guide every woman should read before her next big financial decision</h3>\n<h4>Email body</h4>\n<p>Hi there,</p>\n<p>Buying a home. Choosing an investment. Planning for retirement. Taking a career break.</p>\n<p>Big financial decisions rarely arrive with a neat little instruction manual.</p>\n<p>And when the terminology is unfamiliar or the advice is conflicting, it's tempting to let someone else make the call.</p>\n<p>But here's the thing: you don't have to know everything about money to ask the right questions. You do need to understand enough to make decisions that work for you.</p>\n<p>That's where XYZ comes in.</p>\n<p>Created for women who want to get more comfortable with personal finance, this book offers a starting point for understanding the essentials and approaching money decisions with greater clarity.</p>\n<p>Instead of treating financial knowledge as something you should already possess, think of it as something you can build, one concept at a time.</p>\n<p>Start with the basics. Learn what you need to consider. Get better at recognising what you understand and what deserves a closer look.</p>\n<p>Because financial confidence isn't about having an answer to every question.</p>\n<p>It's about knowing how to find the answer, evaluate your options, and make a decision that reflects your own circumstances.</p>\n<p>Ready to begin?</p>\n<h4>CTA: GET YOUR COPY OF XYZ</h4>\n<p>Warmly,<br>The XYZ Team</p>"
+      },
+      "coverImageUrl": "/covers/cover-3.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.551Z",
+      "categorySlug": "multi-channel-marketing-communications"
+    },
+    {
+      "title": "Mental health among employees",
+      "slug": "mental-health-among-employees",
+      "excerpt": "Create 3 social media posts on building awareness of mental health among employees",
+      "body": {
+        "type": "html",
+        "html": "<h2>1. Feeling a little under the pump? It is possible.</h2>\n<p>The cubicle culture can take us on a roller coaster ride &ndash; often a bumpy one, leaving most of us worn out. It is one of the most common traits of degrading mental health. Unfortunately, not everyone can notice the symptoms until it is too late. Thankfully, a counsellor can! As an exciting addition to the corporate wonderland, let us, therefore, normalise having a mental health specialist &ndash; either physically present on the premises or virtually available &ndash; in the workspace. They can lend a hand to those in need, thereby ensuring a sound work environment. What better way to show that employers care?</p>\n<p>#Mentalhealthsupport #employerscare #workplaceculture</p>\n<h2>2. Anxious, stressed, and burnt out: I feel these all at once.</h2>\n<p>● Take deep breaths</p>\n<p>● Pause your work</p>\n<p>● Go for a walk</p>\n<p>● Confide in a loved one</p>\n<p>Remember, your work is just one element in the grand narrative of your life. It should not have the power to drive you to the brink of a breakdown. But striving for a balance could be easier said than done. Fortunately, help is always available, and you must, my friend, seek it out for a more fulfilling life. All you have to do is let your guard down and open up to someone who can help &ndash; a kin, friend, or a therapist!</p>\n<p>#endthestigma #mentalhealthmust #wecare</p>\n<h2>3. Speak up, seek help, and strive for peace to end the war within.</h2>\n<p>Dear Employees,</p>\n<p>Your emotional and psychological well-being is as important as your limbs, nose, and eyes. Let no one tell you otherwise. But it is possible to feel emotionally swamped every now and then, much like experiencing physical discomfort. It is definietly not a reflection of your weakness or failure. Above all, there should be no shame in admitting the mental struggle you might be enduring. Mental health conversations are no longer a taboo. After all, we all want to build a community of support. So, why not gather the courage to ask for help?</p>\n<p>Warm Regards,</p>\n<p>Someone who cares!</p>"
+      },
+      "coverImageUrl": "/covers/cover-1.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.554Z",
+      "categorySlug": "social-media-posts"
+    },
+    {
+      "title": "Mental health among college students",
+      "slug": "mental-health-among-college-students",
+      "excerpt": "Create 3 social media posts on building awareness regarding mental health among college students",
+      "body": {
+        "type": "html",
+        "html": "<h2>1. Navigating the college days with sanity</h2>\n<p>While it is undeniable that college is one of the most exciting times of our lives, it also stirs a gamut of emotions, often leaving us perplexed. The newfound freedom can quickly become the sole cause of our anxiety, stress, and insomnia. For some, college can even feel like a maze that slowly unfolds its long and winding path, often filled with twists. Consequently, it becomes tough to navigate &ndash; consider factors like enduring peer pressure, maintaining straight A grades, becoming the cool kid on the block, and so on. In keeping up with most of these, emotional well-being takes a backseat. Seek intervention from your loved ones or a professional ASAP, especially when you feel the heightened fear of failure, are overwhelmed by the coursework, experience discomfort in public speaking, or are a little too bothered about exceeding expectations. Speak up today for a better tomorrow!</p>\n<p>#collegelifestress #awarenessformentalhealth #gethelp</p>\n<h2>2. Are we still keeping mum about mental health in college students?</h2>\n<p>No, not anymore!</p>\n<p>Long gone are the days of mental health topics being stigmatised. In this decade, we are going for a new trend: making a positive change. This starts with educating the young adults in college. With one post a day, we can better equip them to fend for themselves. Let us make them aware of the help available, should they find themselves stuck in the rut of academic performance and perfectionism.</p>\n<p>P.S. Stress, my dear buddies, can come in bouts, all at once, and shapes unseen. Fret not, because we have your back. All you have to do is share your struggles.</p>\n<p>#youthofthenation #emotionsofyouth #emotionalhealth</p>\n<h2>3. Raising the youth of today to be emotionally healthy</h2>\n<p>A nation grows strong by the strength of its youth. But what if those minds cease to think? Unfathomable! But this can very well become a reality if we fail to nurture our youth properly. Yes, we are talking about emotionally healthy young adults capable of making perceptively sane decisions. For that, however, we have to end the stigma associated with mental health discussions. Let us normalise talking about stress, anxiety, and depression in college students. Let us not shut them down when they come seeking help for all these and other psychological discomfort they experience. Appreciating their ability to notice issues within themselves and gathering the courage to voice their concerns could bring about a miraculous change.</p>\n<p>Looking forward to this post reaching all &ndash; especially the college-goers and those in that age bracket.</p>\n<p>Dear students, we care and are determined to stand by you through thick and thin.</p>\n<p>#studentlifematters #mentalhealthstigma #healthyemotions</p>"
+      },
+      "coverImageUrl": "/covers/cover-2.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.556Z",
+      "categorySlug": "social-media-posts"
+    },
+    {
+      "title": "Founder's branding perspective",
+      "slug": "founders-branding-perspective",
+      "excerpt": "Create 2 LinkedIn posts from a founder's branding perspective.",
+      "body": {
+        "type": "html",
+        "html": "<h2>1. Thought of the day:&nbsp;A leader without compassion and empathy is just like a quartz clock without a battery: just a decorative item without any operational value</h2>\n<h2>2. Most successful leaders have the courage to accept failure. You cannot become a chef without burning a few dishes.</h2>"
+      },
+      "coverImageUrl": "/covers/cover-1.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.559Z",
+      "categorySlug": "linkedin-posts"
+    },
+    {
+      "title": "Content calendar",
+      "slug": "content-calendar",
+      "excerpt": "LinkedIn Posts",
+      "body": {
+        "type": "html",
+        "html": "<h2>LinkedIn Posts</h2>\n<p>Fill the calendar with 4 posts mentioned below.</p>\n<p>&bull; International festival Post - Creative copy, caption, hashtags, and CTA (Epiphany Day/Martin Luther King Day)</p>\n<p>&bull; Indian festival Post - Creative copy, caption, hashtags, and CTA (Eid, Ugadi, Easter, Kannada Rajyotsava)</p>\n<p>&bull; Cybersecurity Services - Creative copy, caption, hashtags, and CTA</p>\n<p>&bull; Policy Checking Automation - Creative copy, caption, hashtags, and CTA</p>\n<table>\n<thead>\n<tr>\n<th>Sr. No</th>\n<th>Post Type (SM Banner/ Video/ Carousel)</th>\n<th>Creative Copy (Text which will come on the Image/ Creative)</th>\n<th>Post Caption (Content which will come in the text area of LinkedIn)</th>\n<th>Hashtags</th>\n<th>CTA</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>SM Banner</td>\n<td>The day the world becomes free is the day when men and women start raising their voices</td>\n<td>&ldquo;If you want to change the world, pick up your pen and write&rdquo; (Content: Dr. Martin Luther King Jr. Day is around the corner. The famous civil rights leader is known for playing a significant role in the resistance against Jim Crow laws. Thanks to his bravery and heroic actions, the codified system of racial apartheid lost its lustre. To show solidarity towards his work and support his activism, let us all share our dreams on how we can make our world a better place with this &ldquo;I have a dream&rdquo; Activity&rdquo;.</td>\n<td>#IHaveADream #MLKDay #SocialJustice #WeCareWeShare #EqualityPrevails #MartinLutherKingJr #NonViolence</td>\n<td>In the comment boxes, let us join our hands and pen our thoughts to make our society a better place to live.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>SM Banner</td>\n<td>Ugadi 2023</td>\n<td>Tick Tock Tick Tock&hellip;. Aaaannnnnd the New Year Begins (Content: It&rsquo;s time for festivities and celebrations. Muggulu, torana, and new gifts have marked the onset of Ugadi. The new year is here, and so are 365 days of new dreams, fun, and frolic. The festival celebrated on the first day of &ldquo;Chaitra&rdquo; month brings with itself happiness and prosperity and much like spring, it makes way for new hopes. So, let us wear our brightest smiles and savour some sweet treats. With our arms wide open, let us embrace the year ahead and our chance to add new chapters to our lives.</td>\n<td>#Culture #HappyNewYear #FestivalsIndia #Traditions #Festivities #Celebrations #NewYearCelebrations</td>\n<td>Let us know how you are celebrating the day</td>\n</tr>\n<tr>\n<td>3</td>\n<td>SM Banner`</td>\n<td>&ldquo;It takes years to build reputation and only a few minutes of cyber attacks to ruin it&rdquo;</td>\n<td>Together We Make the World Safer (Content: October is observed globally as National Cybersecurity Awareness Month. Since we all have transformed our lives digitally, it is in our best practices to safeguard ourselves against all types of data loss and theft. Confidentiality breeds integrity. In fact, at this crucial time, when almost 30,000 websites have already been hacked globally, maintaining confidentiality is of the utmost importance. The increase in sophisticated malware attacks and breached records across the world is necessitating the facilitation of cyber resilience. Fortunately, this can be achieved by web filtering tools, email security solutions, Identity and Acess Management (IAM), Security information and event management (SIEM), Penetration Testing, and more offered by cybersecurity service providers.</td>\n<td>#cyberthreats #cyberawareness #cyberattacks #cybersecurity #informationsecurity #networksecurity #dataprotection #cyberdefense #cyberresilience</td>\n<td>Give us a call to find more about this.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>SM Banner</td>\n<td>Easy-peasy policy claims processing</td>\n<td>Dear Insurers and Businesses, (Content: If you want to improve customer experiences, reduce discrepancies in the claims process, otherwise caused by manual data entry, enhance operational efficiency, and minimise operations costs, then Policy Checking Automation can be the answer to all your prayers. This technology trend can automate tasks such as the collection of client information, claim verification, and detection of fraudulent behaviours. Doing so would also improve your lead conversions since customers would not necessarily have to spend much time receiving evaluations or processing their claims. Simply put, this is a game-changing solution that can bear positive results for those who strive to sustain themselves in the current world of digital transformation.</td>\n<td>#policyenforcement #policyautomation #automationtools #policymanagement #policycomplaince</td>\n<td>Subscribe to our blog to see more.</td>\n</tr>\n</tbody>\n</table>"
+      },
+      "coverImageUrl": "/covers/cover-2.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.560Z",
+      "categorySlug": "linkedin-posts"
+    },
+    {
+      "title": "Proofreading",
+      "slug": "proofreading",
+      "excerpt": "A small glimpse into the proofreading prowess.",
+      "body": {
+        "type": "html",
+        "html": "<p>Edit the following paragraph!</p>\n<p>Unedited: It has been a farely difficult summer. My sister and brother and I are not being able to go to camp, and we did not take any vacations My mother has had to work too jobs just to make ends meet, so there is nothing left over for what she calling, &ldquo;extras. We have friend staying with us who is ggoing through difficult time hiself, and it makes the house feel crowded. Then my grandmother broke her ankle, and we had had to keep his dog for she all summer because she couldnt take care of it. Talk about a full house! I am glad that school will be starting again soon becauuse I need some space, and some piece and quite!!!</p>\n<h2>Corrected: Tense error along with basic grammar and punctuation error resolution</h2>\n<p>It has been a fairly difficult summer. My sister, brother, and I have been unable to go camping, and we have not taken any vacations. My mother has had to work two jobs just to make ends meet, so there is nothing left over for what she calls &ldquo;extras&rdquo;. We also have a friend staying with us who is going through a difficult time himself&mdash; this makes the house feel more crowded. A few days back, my grandmother broke her ankle. Now we have to keep her dog for the rest of the summer because she cannot take care of it. Talk about a full house! I am glad that school will be starting again soon because I need some space, peace, and quiet!!!</p>"
+      },
+      "coverImageUrl": "/covers/cover-3.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.563Z",
+      "categorySlug": "editing-proofreading"
+    },
+    {
+      "title": "Mixed copy headlines",
+      "slug": "mixed-copy-headlines",
+      "excerpt": "D.\tWrite headlines for the following.",
+      "body": {
+        "type": "html",
+        "html": "<h2>D. Write headlines for the following.</h2>\n<h3>1. Novak Djokovic getting disqualified from the US Open</h3>\n<h2><span style=\"color: #236fa1; background-color: #ecf0f1;\">US Open 2020: Novak Djokovic disqualified</span></h2>\n<h3>2. Rhea Chakraborty being arrested for the death of Sushant Singh Rajput</h3>\n<h2><span style=\"background-color: #ecf0f1; color: #236fa1;\">Rhea Chakraborty lands in trouble; arrested in connection to Sushant Singh Rajput&rsquo;s death</span></h2>\n<h3>3. The worldwide COVID-19 cases surpassing the 25 million mark</h3>\n<h2><span style=\"color: #236fa1; background-color: #ecf0f1;\">COVID declares war on humanity; cases rising quickly</span></h2>"
+      },
+      "coverImageUrl": "/covers/cover-2.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.565Z",
+      "categorySlug": "news-headlines"
+    },
+    {
+      "title": "About Us page",
+      "slug": "about-us-page",
+      "excerpt": "SEO-friendly ‘About Us’ section",
+      "body": {
+        "type": "html",
+        "html": "<p>Write an SEO-friendly &lsquo;About Us&rsquo; section for any famous WEDDING VENUE in your city&nbsp;for the listing on the XYZ website. Include&nbsp;related sections like location, amenities, services, etc. in your write-up. It should be&nbsp;conversational and solve the user intent. The headline should be compelling enough so that&nbsp;more people click it.</p>\n<h2>XYZ Resort: A Goodbye to the Past for a New and Joyous Beginning!</h2>\n<p>We at the XYZ Resort believe that weddings are not just about people but also the</p>\n<p>collection of sentiments that come with them. We take utmost care in nurturing both at our</p>\n<p>venue, thanks to our friendly and informed staff. Whether it is an intimate gathering of half a</p>\n<p>hundred guests or a celebration parade comprising more than a hundred hearts, you can trust</p>\n<p>us with your big day.</p>\n<h2>The Vibe Check!</h2>\n<p>We have all that is needed to make your wedding guests say &ldquo;Wow&rdquo; &ndash; an unmatched sparkling</p>\n<p>aquatic retreat, an extravagant open-air theatre for all your wedding events, an in-house</p>\n<p>brewery to let loose, an indoor hall for those rainy day celebrations, restaurants to fill your heart</p>\n<p>and plate with mouth-watering delicacies, and accommodations to relax, rejuvenate, and ready</p>\n<p>yourself for the wedding afterparties hosted by our in-house DJ. Sounds fun? Wait till you hear</p>\n<p>this: we are nestled amidst nature, away from any hustle and bustle.</p>\n<h2>Key Highlights of XYZ Resort</h2>\n<h3>1. Services We Offer</h3>\n<p>○ Options for in-house catering are available, with cost per serving ranging</p>\n<p>between ₹899- ₹1399.</p>\n<p>○ We offer lighting and sound services &ndash; including a DJ &ndash; for livening up your</p>\n<p>parties.</p>\n<p>○ We pride ourselves in our bar services which are quicker than you can say &ldquo;I</p>\n<p>need a drink&rdquo;.</p>\n<h3>2. Amenities We Have</h3>\n<p>○ Our in-house restaurant is accessible to all our guests.</p>\n<p>○ Plenty of rooms are available to house all your wedding guests.</p>\n<p>○ An ample amount of parking space is ready for use.</p>\n<p>○ We have a dedicated pool space for entertaining the aquaphile in you.</p>\n<p>○ We have an electricity backup to ensure that none of your events are left in the</p>\n<p>dark.</p>\n<h3>3. Other Important Information</h3>\n<p>○ We have an outdoor seating capacity (including the lawn &amp; poolside) of 500+</p>\n<p>○ Personalised decoration for the outdoor areas for your big day is allowed.</p>\n<p>○ The approximate price for renting the space ranges from ₹90000 to ₹100000.</p>\n<h2>Where are we situated?</h2>\n<p>Located just 43 minutes away from the XYZ International Airport at 19, XYZ</p>\n<p>Cross, XYZ Main Road (via XYZ, XYZ East, North, 560090), Bengaluru,</p>\n<p>Karnataka, we are just a few kilometers away from your dreams.</p>"
+      },
+      "coverImageUrl": "/covers/cover-3.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.566Z",
+      "categorySlug": "website-copy"
+    },
+    {
+      "title": "Promotional Website Copy",
+      "slug": "promotional-website-copy",
+      "excerpt": "A small 'about us' section for a website",
+      "body": {
+        "type": "html",
+        "html": "<p><br>Hotel name: XYZ, by the woods</p>\n<p>USPs:</p>\n<ul>\n<li>Equipped with Wellness facilities</li>\n<li>Serve Non Veg</li>\n<li>Open Terrace for Yoga sessions with Trained Instructor</li>\n<li>Business travellers, Friends and families</li>\n</ul>\n<h2>The Colours of Nature are Calling You</h2>\n<p>What can be better than an accommodation by the lake? <br>To be honest, nothing!</p>\n<p>Picture yourself in the serene atmosphere where all your endeavours feel meaningful and you are not chased by haste at all. You are at ease, feel the refreshing breeze, and take a stroll amidst your hectic meetings and conferences. Sounds amazing, right?</p>\n<p>That&rsquo;s us &ndash; the XYZ by the Woods.&nbsp;</p>\n<p>We offer a home away from your nest &ndash; whether you visit us for your business or leisure activities. The nature around us is in itself healing and therapeutic, but if you need more &ndash; well, we are also equipped with a modern wellness facility that screams &lsquo;Be more healthy&rsquo;.</p>\n<p>What else? We have a terrace that can take your breath away (in a positive way&ndash; do not worry, we have elevators). You can join us there for some uplifting activities like Yoga sessions carried out by our certified instructors. As if that was not fulfilling, we also entertain our guests with fishing activities in our well-stocked water-body. Hopefully, this can be a treat to your heart and soul &ndash; and if it ever secures to become one, do give us a visit again.</p>"
+      },
+      "coverImageUrl": "/covers/cover-1.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.568Z",
+      "categorySlug": "website-copy"
+    },
+    {
+      "title": "A Hospital Bill Exposes the Gap in Your Understanding of Personal Finance",
+      "slug": "a-hospital-bill-exposes-the-gap-in-your-understanding-of-personal-finance",
+      "excerpt": "An unexpected hospitalisation and 5 financial lessons! This newsletter is not for the faint-hearted.",
+      "body": {
+        "type": "html",
+        "html": "<h2>A Hospital Bill Exposes the Gap in Your Understanding of Personal Finance</h2><h3>Subject line: One hospital bill. Five financial lessons.</h3><p>Imagine this.</p><p>A family member is hospitalised unexpectedly. After hours of worry, the immediate crisis settles. Then someone hands you the bill.</p><p>₹85,000.</p><p>You earn a decent salary. You pay your bills on time. You even put some money aside every month. Yet, as you stare at the amount, one question keeps coming back: How am I going to pay for this?</p><p>You may have a health insurance policy, but you're unsure what it covers. Your savings aren't quite enough. And putting the expense on a credit card could mean carrying debt into the next month.</p><p>In that moment, a hospital bill becomes more than a medical expense. It exposes something uncomfortable: earning money and understanding how to manage it are two very different things.</p><h2>The lessons your salary never taught you</h2><h3>1. Saving isn't the same as being prepared.</h3><p>You might save regularly for a holiday, a new phone, or a long-term goal. But do you have money set aside specifically for emergencies? An emergency fund gives you a financial cushion when life refuses to follow your budget.</p><h3>2. Insurance isn't a magic wand.</h3><p>Having health insurance matters, but so does understanding your policy. Coverage limits, exclusions, waiting periods, and co-payments can affect what you ultimately pay. Knowing the terms before an emergency can help you avoid unpleasant surprises.</p><h3>3. Your budget needs room for the unexpected.</h3><p>A budget that accounts for rent, groceries, subscriptions, and weekend plans is useful. But if every rupee is already committed, even one unexpected expense can throw everything off balance. Financial planning means accounting for uncertainty, not just routine spending.</p><h3>4. Debt has consequences beyond the bill.</h3><p>Borrowing may sometimes be necessary, but relying on high-interest credit to manage emergencies can turn a one-time expense into a longer financial burden. Understanding interest, repayment obligations, and borrowing costs helps you make informed decisions under pressure.</p><h3>5. Financial literacy is about decisions, not jargon.</h3><p>You don't need to be an investment expert to manage your money better. You do need to understand your expenses, savings, insurance, debt, and financial priorities well enough to make decisions that protect your future.</p><h2>Start before the next surprise</h2><p>You cannot predict every emergency, but you can prepare for some of its financial consequences.</p><p>Review your insurance policy. Calculate your essential monthly expenses. Start building an emergency fund, even if you can contribute only a small amount initially. And understand what borrowing would cost before you need to rely on it.</p><p>These steps may not eliminate financial stress, but they can give you more options when circumstances change.</p><p>Because personal finance isn't just about making your money grow. It's about knowing how to manage it when life gets expensive without warning.</p><p>Your five-minute challenge: Identify one gap in your financial preparedness today, and take one practical step towards closing it.</p>"
+      },
+      "coverImageUrl": "/covers/cover-2.svg",
+      "featured": false,
+      "featuredOrder": 0,
+      "published": true,
+      "publishedAt": "2026-10-25T17:23:40.591Z",
+      "categorySlug": "newsletter"
+    }
+  ],
+  "settings": {
+    "id": "default",
+    "displayName": "Joyeeta Biswas",
+    "tagline": "A glimpse into the years of hard work",
+    "bio": "LODA LEHSUN",
+    "about": "As a young kid of merely 7, I first found my way to a magical world of folktales. And that began my journey to losing myself in the surreal worlds created by people who could cast spells with their words. Mesmerised by their magic, I decided to learn their art. And now here I am: making a conversation with commas, voicing the rights of the en dash, and embracing the exclamation mark as if it were my soulmate. I guess, love makes you do weird things!",
+    "aboutWords": "write\r\nhouses\r\nateliers\r\npeople\r\nbelieve\r\nsentence\r\nchange\r\ntemperature\r\nroom\r\nwork\r\nresearch\r\nornament\r\nfacts\r\nfiligree\r\nstories",
+    "contactEmail": "hello@jb.example",
+    "websiteUrl": "https://inkandvoltage.com/",
+    "websiteLabel": "Visit my website",
+    "polaroidPhoto": "/hero/photo-v3.jpg",
+    "polaroidWrite": "/hero/write-v3.jpg",
+    "polaroidPaint": "/hero/paint-v3.jpg",
+    "polaroidRead": "/hero/read-v3.jpg",
+    "heroImage": "/hero/portrait-v6.gif",
+    "copy": {
+      "roleLabel": "Content writer",
+      "heroPaintCaption": "Paint",
+      "heroReadCaption": "Read",
+      "heroWriteCaption": "Write",
+      "heroPhotoCaption": "Lens",
+      "heroLine1": "For me,",
+      "heroAside": "[ My thinking and philosophy ]",
+      "heroLine2": "Everything begins",
+      "heroMark": "[ ? ]",
+      "heroLine3": "With silent observations",
+      "heroStep1": "Read",
+      "heroStep2": "Feel",
+      "heroStep3": "Write",
+      "heroStep4": "",
+      "heroStepJoin": "",
+      "heroVoice": "I write for people who still believe a sentence can change the temperature of a room. My work lives between research and ornament: first the facts, then the filigree.",
+      "heroImageAlt": "Animated editorial portrait",
+      "featuredEyebrow": "Selected folios",
+      "featuredHeading": "Featured works",
+      "featuredEmpty": "The desk is cleared. New works will appear here once published.",
+      "mustReadsHeading": "Must reads",
+      "readMore": "Read more",
+      "categoriesEyebrow": "Shelves",
+      "categoriesHeading": "Categories",
+      "categoriesIntro": "Fifteen doors, and room to add more. Each shelf keeps its own accent — violet with crimson, or teal with gold.",
+      "navHome": "Home",
+      "navCategories": "Categories",
+      "navAbout": "About",
+      "navContact": "Contact",
+      "navMenu": "Menu",
+      "navClose": "Close",
+      "navBack": "Back",
+      "navBackHome": "Back to home",
+      "navBackCategories": "Back to categories",
+      "aboutHeading": "About me",
+      "aboutHint": "Dropping some hints about my work!",
+      "aboutRecap": "To Recap",
+      "aboutEyebrow": "The writer",
+      "aboutPageHeading": "About me",
+      "aboutPageText": "The last 5 years of corporate life have taught me to safeguard my passion of writing dearly. In between reviews, edits, n number of drafts and a sunken feeling of copies getting rejected and altered, I have understood that giving up on the thing you love most is way easier than clutching it with two hands and keeping it alive like the last leaf struck to the branches in the hopes of the gusty winds to calm down. It is easy to be disheartened, feel demotivated and lose hope. But it is hard to hold on to the dwindling hope to face the brutal Mondays and keep going like a wounded soldier inside the trenches. In any case, the portfolio is a proof that I kept going and let my optimism guide me even in the darkest hours. ",
+      "websiteRowLabel": "My website — Ink & Voltage",
+      "footerBackToTop": "Back to top",
+      "footerMenu": "Menu",
+      "footerContact": "Contact",
+      "footerFriends": "The portfolio that takes after its owner!",
+      "categoryEyebrow": "A single shelf",
+      "categoryEmpty": "This shelf is waiting for its first folio.",
+      "workCountSingular": "work",
+      "workCountPlural": "works",
+      "workReturn": "Return to previous section",
+      "workCategoriesMenu": "Categories menu",
+      "articleEmpty": "The page is still waiting for ink.",
+      "contactEyebrow": "The correspondence desk",
+      "contactHeading": "Write to me",
+      "contactIntro": "Since you made it to this page... I would really like to know your thoughts about what I write! ",
+      "contactNameLabel": "Name",
+      "contactEmailLabel": "Email",
+      "contactMessageLabel": "Message",
+      "contactSubmit": "Send",
+      "contactSubmitting": "Sealing…",
+      "contactSuccess": "I shall write back by the next sunrise",
+      "notFoundEyebrow": "Mislaid folio",
+      "notFoundHeading": "This page has left the house",
+      "notFoundBody": "The corridor ends here. Return to the archive, or knock at the desk.",
+      "notFoundCta": "Home"
+    },
+    "socials": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com"
+      }
+    ]
+  }
+}

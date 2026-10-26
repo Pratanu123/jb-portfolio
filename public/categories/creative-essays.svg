@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+  <defs>
+    <pattern id="ht-14" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.2" fill="#14110e" opacity="0.2"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="520" fill="#ffe566"/>
+  <rect width="800" height="520" fill="url(#ht-14)"/>
+  <g stroke="#14110e" stroke-width="10" stroke-linecap="round" opacity="0.12" fill="none">
+    <path d="M-40 80 L260 20"/><path d="M-20 160 L300 90"/><path d="M40 240 L340 160"/>
+  </g>
+  <path d="M240 360 l220 -200 40 40 -220 200z" fill="#2b6cff" stroke="#14110e" stroke-width="7"/>
+    <path d="M460 160 l50 -50 30 30 -50 50z" fill="#e23d2e" stroke="#14110e" stroke-width="6"/>
+    <path d="M200 180 l20 40 40-10 -20-40z" fill="#fff8e8" stroke="#14110e" stroke-width="4"/>
+    <path d="M560 220 l16 30 30-8 -16-30z" fill="#fff8e8" stroke="#14110e" stroke-width="4"/>
+    <path d="M170 300 l14 26 26-8 -14-26z" fill="#fff8e8" stroke="#14110e" stroke-width="4"/>
+  <g transform="translate(620 70) rotate(-12)">
+    <polygon points="0,28 18,0 52,8 78,0 96,30 78,62 42,70 10,60" fill="#e23d2e" stroke="#14110e" stroke-width="6"/>
+    <text x="48" y="42" text-anchor="middle" fill="#fff8e8" font-family="Impact, Bangers, sans-serif" font-size="22">OOH</text>
+  </g>
+</svg>

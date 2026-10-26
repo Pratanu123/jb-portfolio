@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+  <defs>
+    <pattern id="ht-c2" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.2" fill="#14110e" opacity="0.2"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="520" fill="#ffe08a"/>
+  <rect width="800" height="520" fill="url(#ht-c2)"/>
+  <g stroke="#14110e" stroke-width="10" stroke-linecap="round" opacity="0.12" fill="none">
+    <path d="M-40 80 L260 20"/><path d="M-20 160 L300 90"/><path d="M40 240 L340 160"/>
+  </g>
+  <rect x="190" y="110" width="340" height="300" fill="#fffdf8" stroke="#14110e" stroke-width="8"/>
+    <path d="M210 160 H500 M210 210 H470 M210 260 H490 M210 310 H430" stroke="#d4a017" stroke-width="10"/>
+    <circle cx="480" cy="360" r="46" fill="#e23d2e" stroke="#14110e" stroke-width="6"/>
+    <text x="480" y="370" text-anchor="middle" fill="#ffe566" font-family="Impact, sans-serif" font-size="20">JB</text>
+    <path d="M140 90 l40 20 -10 40" fill="#2b6cff" stroke="#14110e" stroke-width="5"/>
+  <g transform="translate(620 70) rotate(-12)">
+    <polygon points="0,28 18,0 52,8 78,0 96,30 78,62 42,70 10,60" fill="#e23d2e" stroke="#14110e" stroke-width="6"/>
+    <text x="48" y="42" text-anchor="middle" fill="#fff8e8" font-family="Impact, Bangers, sans-serif" font-size="22">GOLD</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+  <defs>
+    <pattern id="ht-05" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.2" fill="#14110e" opacity="0.2"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="520" fill="#ffd3c2"/>
+  <rect width="800" height="520" fill="url(#ht-05)"/>
+  <g stroke="#14110e" stroke-width="10" stroke-linecap="round" opacity="0.12" fill="none">
+    <path d="M-40 80 L260 20"/><path d="M-20 160 L300 90"/><path d="M40 240 L340 160"/>
+  </g>
+  <rect x="300" y="90" width="180" height="340" rx="28" fill="#14110e"/>
+    <rect x="318" y="120" width="144" height="250" fill="#7ec8ff"/>
+    <circle cx="390" cy="400" r="16" fill="#ffe566" stroke="#14110e" stroke-width="4"/>
+    <polygon points="470,150 560,110 590,190 510,210" fill="#e23d2e" stroke="#14110e" stroke-width="6"/>
+    <text x="530" y="175" text-anchor="middle" fill="#fff8e8" font-family="Impact, sans-serif" font-size="22">HA</text>
+  <g transform="translate(620 70) rotate(-12)">
+    <polygon points="0,28 18,0 52,8 78,0 96,30 78,62 42,70 10,60" fill="#e23d2e" stroke="#14110e" stroke-width="6"/>
+    <text x="48" y="42" text-anchor="middle" fill="#fff8e8" font-family="Impact, Bangers, sans-serif" font-size="22">CHAT</text>
+  </g>
+</svg>

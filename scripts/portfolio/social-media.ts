@@ -1,0 +1,55 @@
+import { p, h2, h3, type Post } from "./blocks";
+
+export const socialMedia: Post[] = [
+  {
+    title: "Mental health among employees",
+    blocks: [
+      p("a)  Create 3 social media posts on building awareness of mental health among employees"),
+      h2("1. Feeling a little under the pump? It is possible."),
+      p("The cubicle culture can take us on a roller coaster ride – often a bumpy one, leaving most of us worn out. It is one of the most common traits of degrading mental health. Unfortunately, not everyone can notice the symptoms until it is too late. Thankfully, a counsellor can! As an exciting addition to the corporate wonderland, let us, therefore, normalise having a mental health specialist – either physically present on the premises or virtually available  – in the workspace. They can lend a hand to those in need, thereby ensuring a sound work environment. What better way to show that employers care? "),
+      p("#Mentalhealthsupport #employerscare #workplaceculture"),
+      h2("2. Anxious, stressed, and burnt out: I feel these all at once."),
+      p("●      Take deep breaths"),
+      p("●      Pause your work"),
+      p("●      Go for a walk"),
+      p("●      Confide in a loved one"),
+      p("Remember, your work is just one element in the grand narrative of your life. It should not have the power to drive you to the brink of a breakdown. But striving for a balance could be easier said than done. Fortunately, help is always available, and you must, my friend, seek it out for a more fulfilling life. All you have to do is let your guard down and open up to someone who can help – a kin, friend, or a therapist!"),
+      p("#endthestigma #mentalhealthmust #wecare"),
+      h2("3. Speak up, seek help, and strive for peace to end the war within."),
+      p("Dear Employees,"),
+      p("Your emotional and psychological well-being is as important as your limbs, nose, and eyes. Let no one tell you otherwise. But it is possible to feel emotionally swamped every now and then, much like experiencing physical discomfort. It is definietly not a reflection of your weakness or failure. Above all, there should be no shame in admitting the mental struggle you might be enduring. Mental health conversations are no longer a taboo. After all, we all want to build a community of support. So, why not gather the courage to ask for help?"),
+      p("Warm Regards,"),
+      p("Someone who cares!"),
+    ],
+  },
+  {
+    title: "Mental health among college students",
+    blocks: [
+      p("b) Create 3 social media posts on building awareness regarding mental health among college students"),
+      h2("1.                  Navigating the college days with sanity"),
+      p("While it is undeniable that college is one of the most exciting times of our lives, it also stirs a gamut of emotions, often leaving us perplexed. The newfound freedom can quickly become the sole cause of our anxiety, stress, and insomnia. For some, college can even feel like a maze that slowly unfolds its long and winding path, often filled with twists. Consequently, it becomes tough to navigate – consider factors like enduring peer pressure, maintaining straight A grades, becoming the cool kid on the block, and so on. In keeping up with most of these, emotional well-being takes a backseat. Seek intervention from your loved ones or a professional ASAP, especially when you feel the heightened fear of failure, are overwhelmed by the coursework, experience discomfort in public speaking, or are a little too bothered about exceeding expectations. Speak up today for a better tomorrow!"),
+      p("#collegelifestress #awarenessformentalhealth #gethelp"),
+      h2("2. Are we still keeping mum about mental health in college students?"),
+      p("No, not anymore!"),
+      p("Long gone are the days of mental health topics being stigmatised. In this decade, we are going for a new trend: making a positive change. This starts with educating the young adults in college. With one post a day, we can better equip them to fend for themselves. Let us make them aware of the help available, should they find themselves stuck in the rut of academic performance and perfectionism."),
+      p("P.S. Stress, my dear buddies, can come in bouts, all at once, and shapes unseen. Fret not, because we have your back. All you have to do is share your struggles."),
+      p("#youthofthenation #emotionsofyouth #emotionalhealth"),
+      h2("3. Raising the youth of today to be emotionally healthy"),
+      p("A nation grows strong by the strength of its youth. But what if those minds cease to think? Unfathomable! But this can very well become a reality if we fail to nurture our youth properly. Yes, we are talking about emotionally healthy young adults capable of making perceptively sane decisions. For that, however, we have to end the stigma associated with mental health discussions. Let us normalise talking about stress, anxiety, and depression in college students. Let us not shut them down when they come seeking help for all these and other psychological discomfort they experience. Appreciating their ability to notice issues within themselves and gathering the courage to voice their concerns could bring about a miraculous change."),
+      p("Looking forward to this post reaching all – especially the college-goers and those in that age bracket."),
+      p("Dear students, we care and are determined to stand by you through thick and thin."),
+      p("#studentlifematters #mentalhealthstigma #healthyemotions"),
+    ],
+  },
+  {
+    title: "Blog Topic Ideation",
+    blocks: [
+      p("c) Create 5 blog topic ideas targeting CHROs / HR Leaders for mental health betterment."),
+      h2("1. Is the job of Human Resources making you less human and more robot?"),
+      h2("2. Navigating through anger, anguish, and anxiety: everyday tales of HR Leaders."),
+      h2("3. Struck between the boss and the client. How do top HR employees keep their calm?"),
+      h2("4. “Am I draining myself a bit too much?” The two cents of the HR top guns across the world."),
+      h2("5. An HR’s guide to handling the two M’s in the job: Mayhem and Mental Health"),
+    ],
+  },
+];

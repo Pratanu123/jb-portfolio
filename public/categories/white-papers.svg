@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img">
+  <defs>
+    <pattern id="ht-11" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.2" fill="#14110e" opacity="0.2"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="520" fill="#e8e6e1"/>
+  <rect width="800" height="520" fill="url(#ht-11)"/>
+  <g stroke="#14110e" stroke-width="10" stroke-linecap="round" opacity="0.12" fill="none">
+    <path d="M-40 80 L260 20"/><path d="M-20 160 L300 90"/><path d="M40 240 L340 160"/>
+  </g>
+  <g stroke="#14110e" stroke-width="6" fill="#fffdf8">
+      <rect x="280" y="180" width="200" height="260"/>
+      <rect x="250" y="150" width="200" height="260"/>
+      <rect x="220" y="120" width="200" height="260"/>
+    </g>
+    <path d="M250 190 H390 M250 230 H370" stroke="#14110e" stroke-width="7"/>
+  <g transform="translate(620 70) rotate(-12)">
+    <polygon points="0,28 18,0 52,8 78,0 96,30 78,62 42,70 10,60" fill="#e23d2e" stroke="#14110e" stroke-width="6"/>
+    <text x="48" y="42" text-anchor="middle" fill="#fff8e8" font-family="Impact, Bangers, sans-serif" font-size="22">DOSS</text>
+  </g>
+</svg>
