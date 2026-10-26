@@ -1,0 +1,22 @@
+# Production overlay for the inkandvoltage.com VPS.
+# Docker Nginx in /opt/blog already binds 80/443, so Caddy is not started.
+# The app joins the blog network as `jb-portfolio`; Nginx proxies
+# https://portfolio.inkandvoltage.com → jb-portfolio:3000
+#
+#   docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
+
+services:
+  caddy:
+    profiles: ["caddy"]
+    ports: !reset []
+
+  app:
+    container_name: jb-portfolio
+    networks:
+      - default
+      - blogcms
+
+networks:
+  blogcms:
+    external: true
+    name: blog_blogcms

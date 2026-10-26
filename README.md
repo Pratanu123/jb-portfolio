@@ -14,37 +14,38 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000). Admin is at `/admin`.
 
-## Deploy on a VPS (Docker)
+## Deploy on the inkandvoltage.com VPS
 
-The subdomain reaches Caddy. Caddy proxies the app. Postgres stays on the Docker network and is not published.
+`portfolio.inkandvoltage.com` is served by the existing Docker Nginx in `/opt/blog`. This stack runs Next.js + Postgres only (Caddy is disabled so it does not take ports 80/443). The app joins the `blog_blogcms` network as `jb-portfolio`.
 
-1. Point the subdomain A/AAAA record at the VPS (ports 80 and 443 open).
+GitHub Actions deploys `main` over SSH by running `scripts/deploy.sh`.
+
+1. Point the `portfolio` A record at the VPS (already `187.127.162.32`).
 2. On the VPS:
 
 ```bash
-git clone https://github.com/Pratanu123/jb-portfolio.git
-cd jb-portfolio
+git clone https://github.com/Pratanu123/jb-portfolio.git /opt/jb-portfolio
+cd /opt/jb-portfolio
 cp .env.example .env
 ```
 
 3. Edit `.env` and set at least:
 
-   - `SITE_HOST` — `portfolio.yourdomain.com` (no `https://`)
-   - `ACME_EMAIL` — for Let’s Encrypt
-   - `AUTH_URL` — `https://portfolio.yourdomain.com`
+   - `SITE_HOST` — `portfolio.inkandvoltage.com`
+   - `AUTH_URL` — `https://portfolio.inkandvoltage.com`
    - `AUTH_SECRET` — `openssl rand -base64 32`
    - `ADMIN_EMAIL` / `ADMIN_PASSWORD`
    - `POSTGRES_PASSWORD` — long alphanumeric string
 
-4. Start the stack:
+4. Start the app (Nginx in `/opt/blog` already proxies the subdomain):
 
 ```bash
-docker compose up -d --build
+docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
 ```
 
-First boot creates the database, seeds the writings, and Caddy issues a certificate for the subdomain. Uploads and Postgres data persist in Docker volumes.
+First boot creates the database and seeds the writings. Uploads and Postgres data persist in Docker volumes. Postgres is not published to the public internet.
 
-`http://SITE_HOST` and `https://SITE_HOST` both hit the same app. Postgres is not reachable from the public internet.
+A standalone Caddy edge (`docker compose up` without the prod overlay) is only for a dedicated VPS that does not already bind 80/443.
 
 ## Deploy on Vercel
 
